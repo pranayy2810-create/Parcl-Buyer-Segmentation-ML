@@ -1,0 +1,1201 @@
+client_id,client_type,gender,country,region,date_of_birth,acquisition_purpose,loan_applied,referral_channel,satisfaction_score,investment_amount_inr,property_count,age,kmeans_cluster,hierarchical_cluster,Segment
+CL100001,Individual,Female,UK,London,1994-01-14,Investment,No,Online,4.3,21032000,1,32,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100002,Individual,Female,India,Mumbai,1973-10-22,Investment,No,Online,4.0,68037000,2,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100003,Individual,Male,USA,California,1983-05-13,Investment,No,Referral,4.4,20037000,5,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100004,Individual,Female,UK,Manchester,1991-03-15,Business Use,No,Online,4.3,51188000,13,35,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100005,Individual,Male,India,Bengaluru,1960-02-15,Business Use,Yes,Referral,4.0,55962000,3,66,1,1,C1: Affluent Global & Portfolio Investors
+CL100006,Individual,Female,Singapore,West,1986-08-26,Business Use,No,Referral,4.4,64654000,14,40,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100007,Individual,Female,UK,Manchester,1974-04-23,Investment,No,Online,3.9,25050000,5,52,1,2,C1: Affluent Global & Portfolio Investors
+CL100008,Individual,Male,UK,Birmingham,1955-07-10,Investment,No,Online,3.7,22771000,1,71,1,2,C1: Affluent Global & Portfolio Investors
+CL100009,Individual,Male,India,Mumbai,2001-11-23,Personal Use,No,Online,2.7,8392000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100010,Individual,Female,India,Hyderabad,1971-10-13,Investment,Yes,Direct,4.1,29001000,3,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100011,Individual,Male,India,Mumbai,1993-04-03,Business Use,No,Agent,3.8,78728000,12,33,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100012,Individual,Female,USA,New York,1991-04-27,Personal Use,Yes,Referral,2.9,8701000,1,35,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100013,Individual,Female,UAE,Sharjah,1994-06-26,Personal Use,Yes,Agent,3.4,6990000,1,32,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100014,Individual,Female,USA,California,1974-03-23,Investment,Yes,Referral,3.8,27831000,4,52,1,2,C1: Affluent Global & Portfolio Investors
+CL100015,Corporate,Male,India,Bengaluru,2000-04-24,Personal Use,Yes,Online,3.0,4002000,1,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100016,Individual,Female,India,Mumbai,1996-08-31,Investment,No,Online,4.3,26593000,4,30,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100017,Individual,Other,UAE,Abu Dhabi,1976-09-16,Business Use,Yes,Social Media,4.1,63341000,3,50,1,1,C1: Affluent Global & Portfolio Investors
+CL100018,Individual,Male,India,Bengaluru,1990-01-23,Investment,Yes,Referral,3.5,30521000,2,36,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100019,Individual,Male,USA,Texas,1985-01-12,Investment,No,Online,5.0,30648000,2,41,1,2,C1: Affluent Global & Portfolio Investors
+CL100020,Individual,Male,UAE,Abu Dhabi,1995-12-22,Business Use,No,Agent,3.7,58635000,10,31,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100021,Corporate,Male,UK,London,1973-03-19,Investment,Yes,Direct,3.7,16410000,1,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100022,Individual,Female,India,Delhi NCR,1975-11-15,Investment,No,Online,4.6,31993000,3,51,1,2,C1: Affluent Global & Portfolio Investors
+CL100023,Individual,Male,Singapore,Central,2001-02-21,Personal Use,No,Online,3.6,5816000,2,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100024,Individual,Female,USA,Florida,1964-06-01,Investment,No,Agent,2.6,29351000,4,62,1,2,C1: Affluent Global & Portfolio Investors
+CL100025,Individual,Male,UK,Manchester,1957-04-25,Investment,No,Online,4.0,22159000,5,69,1,2,C1: Affluent Global & Portfolio Investors
+CL100026,Individual,Male,India,Mumbai,1987-04-21,Investment,No,Referral,3.7,30534000,4,39,1,2,C1: Affluent Global & Portfolio Investors
+CL100027,Individual,Male,India,Hyderabad,1993-05-26,Personal Use,Yes,Referral,1.7,8056000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100028,Individual,Female,India,Bengaluru,1972-10-02,Investment,Yes,Agent,4.2,22810000,3,54,1,2,C1: Affluent Global & Portfolio Investors
+CL100029,Corporate,Female,India,Delhi NCR,1991-03-14,Personal Use,No,Referral,4.0,6987000,1,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100030,Individual,Male,UK,London,1991-06-14,Personal Use,Yes,Agent,2.8,4435000,1,35,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100031,Individual,Female,UK,London,1965-06-17,Investment,No,Social Media,4.0,46373000,5,61,1,2,C1: Affluent Global & Portfolio Investors
+CL100032,Corporate,Male,Singapore,East,1995-09-08,Investment,No,Online,4.3,27726000,2,31,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100033,Individual,Male,India,Hyderabad,1985-12-29,Business Use,Yes,Agent,2.2,91144000,14,41,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100034,Individual,Male,India,Bengaluru,1981-06-13,Business Use,No,Referral,3.6,38497000,14,45,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100035,Individual,Prefer not to say,India,Mumbai,1959-08-30,Investment,No,Agent,2.9,7935000,5,67,1,2,C1: Affluent Global & Portfolio Investors
+CL100036,Individual,Female,India,Mumbai,1967-05-07,Investment,Yes,Online,4.0,29454000,4,59,1,2,C1: Affluent Global & Portfolio Investors
+CL100037,Individual,Female,India,Delhi NCR,1995-08-22,Personal Use,Yes,Agent,3.0,5081000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100038,Individual,Male,India,Delhi NCR,1964-01-12,Investment,No,Referral,4.7,36942000,4,62,1,2,C1: Affluent Global & Portfolio Investors
+CL100039,Individual,Male,India,Pune,2002-04-29,Personal Use,Yes,Online,3.7,5505000,1,24,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100040,Individual,Female,UK,London,1986-07-20,Business Use,Yes,Referral,4.6,40778000,8,40,0,2,C3: High-Volume Business & Multi-Unit Buyers
+CL100041,Individual,Male,India,Bengaluru,1973-04-18,Investment,No,Social Media,5.0,43308000,2,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100042,Individual,Female,USA,New York,1957-05-10,Investment,Yes,Referral,4.9,76599000,6,69,1,1,C1: Affluent Global & Portfolio Investors
+CL100043,Individual,Female,UK,London,1987-05-21,Personal Use,No,Online,3.5,6046000,1,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100044,Corporate,Male,India,Bengaluru,1995-06-06,Personal Use,Yes,Social Media,4.0,6259000,1,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100045,Individual,Female,USA,California,1987-01-27,Business Use,No,Online,4.3,56387000,9,39,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100046,Individual,Prefer not to say,USA,Florida,1990-09-09,Personal Use,Yes,Direct,4.0,5101000,1,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100047,Individual,Male,India,Delhi NCR,1968-07-28,Investment,No,Referral,3.9,39546000,5,58,1,2,C1: Affluent Global & Portfolio Investors
+CL100048,Individual,Prefer not to say,India,Delhi NCR,1992-10-01,Investment,No,Online,4.7,24872000,3,34,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100049,Individual,Female,UK,Birmingham,1976-06-08,Investment,Yes,Social Media,3.9,24980000,1,50,1,2,C1: Affluent Global & Portfolio Investors
+CL100050,Individual,Male,India,Hyderabad,1962-01-07,Investment,No,Agent,4.1,44664000,4,64,1,2,C1: Affluent Global & Portfolio Investors
+CL100051,Individual,Female,India,Pune,2000-05-24,Personal Use,No,Agent,2.7,6065000,1,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100052,Corporate,Male,India,Pune,1993-10-18,Investment,No,Agent,5.0,1500000,5,33,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100053,Individual,Female,UK,London,1966-01-31,Investment,Yes,Referral,4.4,35813000,1,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100054,Individual,Female,UK,Manchester,1987-03-20,Personal Use,Yes,Referral,3.8,6202000,2,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100055,Corporate,Female,UK,Birmingham,1965-07-25,Investment,No,Direct,4.2,33972000,3,61,1,2,C1: Affluent Global & Portfolio Investors
+CL100056,Corporate,Male,UK,Manchester,1984-11-09,Investment,No,Online,3.7,20017000,1,42,1,2,C1: Affluent Global & Portfolio Investors
+CL100057,Individual,Female,India,Pune,1961-08-08,Investment,No,Referral,4.1,14946000,1,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100058,Individual,Male,UAE,Sharjah,1988-03-14,Personal Use,Yes,Referral,4.1,5796000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100059,Individual,Male,India,Mumbai,1981-06-05,Investment,No,Referral,4.4,29672000,6,45,1,2,C1: Affluent Global & Portfolio Investors
+CL100060,Individual,Male,India,Hyderabad,1993-10-26,Personal Use,Yes,Agent,3.2,8345000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100061,Individual,Female,UK,Manchester,1974-11-06,Personal Use,No,Agent,5.0,62234000,2,52,1,2,C1: Affluent Global & Portfolio Investors
+CL100062,Corporate,Male,India,Bengaluru,1976-01-14,Investment,No,Social Media,5.0,32838000,6,50,1,2,C1: Affluent Global & Portfolio Investors
+CL100063,Corporate,Male,UAE,Abu Dhabi,2002-07-23,Personal Use,Yes,Agent,3.6,6707000,1,24,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100064,Individual,Female,UK,Manchester,1973-04-26,Personal Use,No,Online,4.8,30664000,4,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100065,Individual,Male,UAE,Abu Dhabi,1973-08-23,Business Use,Yes,Referral,4.3,74156000,6,53,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100066,Corporate,Male,UAE,Dubai,1992-11-30,Personal Use,Yes,Online,3.8,8667000,2,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100067,Corporate,Male,UAE,Dubai,1997-08-04,Personal Use,No,Online,2.8,8767000,1,29,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100068,Individual,Male,India,Delhi NCR,1987-04-24,Investment,No,Online,3.7,33452000,5,39,1,2,C1: Affluent Global & Portfolio Investors
+CL100069,Individual,Female,India,Hyderabad,1959-09-03,Investment,No,Referral,5.0,35354000,3,67,1,2,C1: Affluent Global & Portfolio Investors
+CL100070,Corporate,Male,India,Bengaluru,1967-05-27,Business Use,No,Direct,3.7,60718000,5,59,1,1,C1: Affluent Global & Portfolio Investors
+CL100071,Individual,Male,India,Pune,1976-07-26,Investment,No,Agent,4.1,42833000,5,50,1,1,C1: Affluent Global & Portfolio Investors
+CL100072,Individual,Prefer not to say,India,Hyderabad,2001-08-31,Personal Use,No,Online,4.0,8308000,1,25,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100073,Corporate,Female,USA,Texas,1973-09-30,Investment,No,Social Media,3.7,41665000,5,53,1,1,C1: Affluent Global & Portfolio Investors
+CL100074,Corporate,Female,India,Bengaluru,1959-09-29,Investment,No,Online,4.4,28278000,2,67,1,2,C1: Affluent Global & Portfolio Investors
+CL100075,Corporate,Female,India,Hyderabad,1975-10-01,Investment,No,Direct,4.1,33936000,3,51,1,2,C1: Affluent Global & Portfolio Investors
+CL100076,Individual,Female,India,Mumbai,1971-04-15,Investment,Yes,Referral,4.5,4806000,5,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100077,Individual,Male,India,Mumbai,2002-09-01,Personal Use,Yes,Online,4.6,5529000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100078,Individual,Female,UK,London,1981-04-06,Investment,No,Agent,5.0,45260000,3,45,1,2,C1: Affluent Global & Portfolio Investors
+CL100079,Individual,Female,UAE,Dubai,1990-09-11,Personal Use,Yes,Agent,3.7,6114000,1,36,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100080,Individual,Male,UK,London,1982-09-05,Business Use,No,Social Media,4.5,49968000,5,44,1,2,C1: Affluent Global & Portfolio Investors
+CL100081,Individual,Male,UK,Manchester,1957-01-29,Investment,No,Online,4.4,29339000,5,69,1,2,C1: Affluent Global & Portfolio Investors
+CL100082,Individual,Male,India,Pune,2000-02-17,Personal Use,Yes,Social Media,4.4,8975000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100083,Individual,Female,USA,New York,1970-08-09,Business Use,No,Social Media,3.7,69391000,7,56,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100084,Individual,Female,India,Bengaluru,1985-09-25,Investment,Yes,Social Media,3.9,36217000,4,41,1,2,C1: Affluent Global & Portfolio Investors
+CL100085,Individual,Female,India,Bengaluru,1964-04-15,Investment,Yes,Direct,4.4,34812000,4,62,1,2,C1: Affluent Global & Portfolio Investors
+CL100086,Individual,Male,India,Bengaluru,1967-12-08,Investment,Yes,Online,3.2,24832000,5,59,1,2,C1: Affluent Global & Portfolio Investors
+CL100087,Individual,Male,UK,London,1962-07-20,Personal Use,No,Agent,4.5,38999000,3,64,1,2,C1: Affluent Global & Portfolio Investors
+CL100088,Individual,Male,India,Hyderabad,1962-05-29,Investment,No,Social Media,4.3,31009000,3,64,1,2,C1: Affluent Global & Portfolio Investors
+CL100089,Corporate,Male,India,Mumbai,1963-05-01,Investment,Yes,Agent,3.8,55268000,2,63,1,2,C1: Affluent Global & Portfolio Investors
+CL100090,Individual,Female,UAE,Abu Dhabi,1987-11-24,Personal Use,Yes,Online,4.3,5239000,2,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100091,Individual,Female,India,Bengaluru,1968-01-01,Investment,No,Online,4.0,34965000,4,58,1,2,C1: Affluent Global & Portfolio Investors
+CL100092,Individual,Female,UK,London,1955-09-24,Investment,Yes,Online,4.2,21918000,3,71,1,2,C1: Affluent Global & Portfolio Investors
+CL100093,Individual,Female,India,Pune,1991-11-20,Investment,No,Social Media,3.5,49975000,2,35,1,2,C1: Affluent Global & Portfolio Investors
+CL100094,Individual,Prefer not to say,India,Delhi NCR,1989-06-30,Personal Use,Yes,Agent,2.9,5027000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100095,Individual,Male,India,Mumbai,1970-02-01,Investment,No,Referral,5.0,14648000,2,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100096,Individual,Male,UAE,Dubai,1997-09-19,Personal Use,Yes,Direct,2.9,6542000,1,29,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100097,Individual,Male,India,Pune,1991-07-21,Personal Use,Yes,Online,3.5,7471000,1,35,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100098,Individual,Male,India,Pune,1994-10-16,Personal Use,Yes,Social Media,3.8,9133000,2,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100099,Individual,Male,India,Hyderabad,1992-12-16,Personal Use,Yes,Online,3.3,4572000,1,34,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100100,Individual,Male,Singapore,West,1984-04-20,Business Use,Yes,Online,4.3,50234000,11,42,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100101,Individual,Other,USA,California,2001-09-30,Personal Use,Yes,Online,3.8,8616000,1,25,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100102,Individual,Male,UK,London,1972-06-16,Business Use,Yes,Agent,3.1,55354000,11,54,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100103,Corporate,Other,India,Delhi NCR,1983-04-28,Investment,No,Agent,4.4,58636000,5,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100104,Individual,Female,Singapore,Central,1993-03-01,Personal Use,Yes,Agent,3.3,5170000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100105,Individual,Female,UK,London,1985-10-26,Investment,Yes,Online,4.9,29200000,5,41,1,2,C1: Affluent Global & Portfolio Investors
+CL100106,Individual,Female,UK,London,1961-06-03,Investment,Yes,Online,2.9,14091000,4,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100107,Individual,Male,India,Mumbai,1988-02-04,Personal Use,Yes,Referral,3.0,5133000,1,38,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100108,Individual,Female,India,Delhi NCR,2000-07-09,Personal Use,No,Online,3.1,6940000,2,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100109,Individual,Male,India,Mumbai,1979-12-19,Personal Use,No,Social Media,4.3,41491000,6,47,1,1,C1: Affluent Global & Portfolio Investors
+CL100110,Corporate,Female,USA,New York,1977-09-28,Business Use,No,Direct,4.8,96672000,13,49,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100111,Individual,Male,India,Hyderabad,1993-03-17,Personal Use,No,Referral,2.8,9197000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100112,Individual,Male,India,Pune,1986-03-19,Investment,No,Referral,4.7,45127000,6,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100113,Corporate,Female,India,Pune,2000-09-09,Personal Use,No,Referral,3.5,7122000,1,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100114,Individual,Female,UAE,Sharjah,1983-10-23,Personal Use,No,Referral,4.8,26835000,5,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100115,Individual,Male,India,Hyderabad,1981-09-17,Investment,Yes,Direct,3.8,25676000,2,45,1,2,C1: Affluent Global & Portfolio Investors
+CL100116,Individual,Female,USA,Florida,1961-10-05,Business Use,No,Direct,3.6,65802000,4,65,1,1,C1: Affluent Global & Portfolio Investors
+CL100117,Individual,Male,UK,Birmingham,1980-04-06,Personal Use,No,Agent,4.5,36073000,3,46,1,2,C1: Affluent Global & Portfolio Investors
+CL100118,Individual,Female,UK,Manchester,1962-03-01,Investment,Yes,Referral,3.8,38754000,4,64,1,2,C1: Affluent Global & Portfolio Investors
+CL100119,Individual,Male,India,Hyderabad,1984-12-15,Investment,No,Social Media,4.6,33526000,2,42,1,2,C1: Affluent Global & Portfolio Investors
+CL100120,Corporate,Male,UAE,Sharjah,2001-04-06,Personal Use,Yes,Online,3.6,6132000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100121,Individual,Male,UAE,Abu Dhabi,1965-04-02,Investment,No,Agent,4.4,35583000,2,61,1,2,C1: Affluent Global & Portfolio Investors
+CL100122,Individual,Male,UAE,Dubai,1992-05-23,Personal Use,No,Referral,5.0,3990000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100123,Individual,Male,India,Bengaluru,1970-02-18,Business Use,No,Referral,5.0,8083000,11,56,1,1,C1: Affluent Global & Portfolio Investors
+CL100124,Individual,Male,India,Mumbai,1962-12-19,Investment,Yes,Agent,4.0,24539000,2,64,1,2,C1: Affluent Global & Portfolio Investors
+CL100125,Individual,Male,India,Hyderabad,1957-04-21,Investment,No,Online,3.9,10949000,5,69,1,2,C1: Affluent Global & Portfolio Investors
+CL100126,Individual,Male,UAE,Dubai,2001-11-16,Personal Use,No,Online,3.2,3747000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100127,Individual,Male,India,Mumbai,1988-02-09,Investment,Yes,Referral,4.4,28716000,4,38,1,2,C1: Affluent Global & Portfolio Investors
+CL100128,Individual,Male,India,Pune,1965-07-03,Business Use,Yes,Direct,3.5,55881000,12,61,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100129,Individual,Female,India,Hyderabad,1962-11-30,Investment,No,Direct,3.9,57259000,4,64,1,2,C1: Affluent Global & Portfolio Investors
+CL100130,Individual,Other,UAE,Abu Dhabi,1977-04-04,Investment,No,Agent,4.6,46625000,6,49,1,2,C1: Affluent Global & Portfolio Investors
+CL100131,Individual,Male,India,Pune,1991-04-04,Investment,Yes,Online,3.0,23201000,2,35,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100132,Individual,Female,USA,Florida,1961-07-16,Investment,No,Social Media,5.0,45332000,5,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100133,Individual,Male,UAE,Sharjah,1956-09-10,Investment,No,Referral,5.0,18044000,3,70,1,2,C1: Affluent Global & Portfolio Investors
+CL100134,Individual,Male,India,Hyderabad,1990-12-27,Personal Use,Yes,Agent,3.0,6291000,1,36,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100135,Individual,Female,UAE,Sharjah,1963-02-05,Investment,Yes,Agent,4.6,45007000,6,63,1,1,C1: Affluent Global & Portfolio Investors
+CL100136,Individual,Female,India,Pune,1970-10-27,Investment,No,Online,4.2,27640000,3,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100137,Individual,Female,Singapore,Central,1982-03-01,Investment,Yes,Social Media,3.2,23927000,2,44,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100138,Individual,Male,UAE,Abu Dhabi,1958-06-02,Investment,Yes,Referral,4.9,27406000,2,68,1,2,C1: Affluent Global & Portfolio Investors
+CL100139,Individual,Female,UK,Manchester,1992-04-26,Personal Use,Yes,Agent,4.0,5452000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100140,Individual,Male,India,Mumbai,1983-04-24,Investment,No,Direct,4.6,46111000,5,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100141,Individual,Male,UAE,Dubai,1986-02-23,Investment,No,Referral,3.6,16050000,3,40,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100142,Individual,Male,UAE,Sharjah,1961-12-20,Investment,No,Direct,4.0,6804000,2,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100143,Individual,Prefer not to say,USA,Florida,1992-01-06,Personal Use,Yes,Agent,4.3,9077000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100144,Individual,Male,UAE,Abu Dhabi,1958-12-18,Investment,No,Agent,3.9,20416000,2,68,1,2,C1: Affluent Global & Portfolio Investors
+CL100145,Corporate,Female,India,Pune,1973-01-02,Business Use,No,Direct,4.3,105918000,6,53,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100146,Corporate,Female,India,Bengaluru,1987-09-29,Investment,No,Direct,4.8,48166000,6,39,1,2,C1: Affluent Global & Portfolio Investors
+CL100147,Individual,Female,India,Delhi NCR,1978-02-28,Business Use,No,Direct,3.8,81071000,11,48,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100148,Corporate,Female,UAE,Abu Dhabi,1982-12-03,Investment,No,Social Media,5.0,37875000,3,44,1,2,C1: Affluent Global & Portfolio Investors
+CL100149,Individual,Female,India,Mumbai,1988-07-17,Personal Use,No,Agent,3.8,6191000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100150,Corporate,Male,India,Hyderabad,1962-06-19,Investment,Yes,Online,4.6,30156000,3,64,1,2,C1: Affluent Global & Portfolio Investors
+CL100151,Corporate,Male,USA,California,1988-01-19,Investment,No,Agent,4.3,18019000,1,38,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100152,Individual,Female,USA,Texas,1965-11-17,Investment,No,Direct,4.7,25654000,5,61,1,2,C1: Affluent Global & Portfolio Investors
+CL100153,Individual,Male,India,Bengaluru,1983-12-20,Business Use,No,Agent,3.9,66984000,13,43,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100154,Corporate,Male,UAE,Dubai,1981-05-10,Investment,Yes,Social Media,3.2,14722000,4,45,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100155,Corporate,Male,India,Pune,1967-12-16,Investment,No,Direct,5.0,2912000,4,59,1,2,C1: Affluent Global & Portfolio Investors
+CL100156,Corporate,Male,UK,London,1963-03-25,Business Use,No,Direct,5.0,56183000,12,63,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100157,Individual,Male,India,Delhi NCR,1960-12-19,Investment,No,Direct,5.0,31214000,6,66,1,2,C1: Affluent Global & Portfolio Investors
+CL100158,Individual,Male,UAE,Sharjah,1993-01-12,Personal Use,Yes,Referral,3.1,3477000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100159,Corporate,Female,UK,London,1992-06-21,Personal Use,Yes,Agent,3.6,6635000,1,34,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100160,Individual,Male,UK,Manchester,1979-01-21,Business Use,Yes,Direct,3.2,72523000,12,47,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100161,Individual,Prefer not to say,India,Mumbai,1991-11-17,Investment,No,Online,3.6,12926000,3,35,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100162,Individual,Prefer not to say,USA,Texas,2002-09-25,Personal Use,Yes,Online,5.0,6766000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100163,Individual,Male,India,Delhi NCR,1990-07-20,Business Use,No,Direct,4.5,40475000,12,36,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100164,Individual,Female,India,Mumbai,1986-12-23,Investment,No,Referral,5.0,52462000,4,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100165,Individual,Female,UAE,Abu Dhabi,1978-11-26,Business Use,No,Agent,3.4,98991000,9,48,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100166,Individual,Female,India,Mumbai,1991-09-04,Investment,No,Online,3.8,18305000,2,35,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100167,Individual,Male,USA,Florida,1988-04-07,Personal Use,Yes,Agent,2.7,7829000,1,38,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100168,Corporate,Male,USA,California,1997-04-18,Personal Use,Yes,Direct,3.2,8933000,1,29,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100169,Individual,Male,India,Bengaluru,1991-12-02,Investment,No,Referral,4.0,32945000,5,35,1,2,C1: Affluent Global & Portfolio Investors
+CL100170,Individual,Female,Singapore,West,1988-12-11,Personal Use,Yes,Agent,2.7,9168000,1,38,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100171,Individual,Prefer not to say,India,Pune,1998-05-08,Personal Use,Yes,Referral,4.2,5520000,1,28,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100172,Corporate,Female,UAE,Sharjah,1958-08-24,Investment,No,Direct,4.3,21470000,5,68,1,2,C1: Affluent Global & Portfolio Investors
+CL100173,Individual,Female,India,Delhi NCR,1990-03-19,Personal Use,Yes,Direct,5.0,5861000,1,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100174,Individual,Prefer not to say,USA,Texas,1963-09-16,Investment,No,Agent,4.3,25474000,2,63,1,1,C1: Affluent Global & Portfolio Investors
+CL100175,Individual,Female,India,Delhi NCR,1989-08-22,Personal Use,Yes,Referral,4.1,4500000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100176,Individual,Male,India,Bengaluru,1992-10-13,Investment,Yes,Online,4.2,17138000,4,34,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100177,Individual,Female,India,Bengaluru,1983-09-27,Business Use,Yes,Agent,4.1,54154000,12,43,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100178,Corporate,Male,Singapore,East,1973-04-19,Investment,No,Online,3.8,8598000,2,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100179,Individual,Male,USA,Florida,1986-07-14,Investment,No,Agent,4.5,42828000,3,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100180,Individual,Male,UK,Manchester,1989-05-06,Investment,No,Referral,4.0,30264000,1,37,1,2,C1: Affluent Global & Portfolio Investors
+CL100181,Corporate,Female,USA,Texas,1994-12-05,Personal Use,Yes,Agent,3.8,7749000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100182,Individual,Male,USA,Texas,1997-06-20,Personal Use,Yes,Online,3.9,8402000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100183,Corporate,Male,UAE,Dubai,1989-07-18,Investment,No,Online,5.0,39747000,3,37,1,2,C1: Affluent Global & Portfolio Investors
+CL100184,Individual,Male,India,Delhi NCR,1992-02-04,Personal Use,Yes,Online,3.6,7270000,1,34,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100185,Individual,Male,UK,Manchester,1986-08-01,Personal Use,No,Referral,4.6,55663000,2,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100186,Corporate,Male,UK,Manchester,1968-11-25,Investment,No,Online,4.5,29711000,6,58,1,2,C1: Affluent Global & Portfolio Investors
+CL100187,Individual,Female,India,Bengaluru,1989-04-22,Personal Use,Yes,Online,4.9,11318000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100188,Individual,Female,India,Bengaluru,1991-11-09,Investment,Yes,Direct,5.0,1500000,1,35,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100189,Corporate,Male,UK,Birmingham,1982-02-05,Business Use,Yes,Online,4.6,15484000,10,44,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100190,Individual,Male,India,Bengaluru,1989-08-15,Personal Use,No,Direct,2.5,4859000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100191,Individual,Male,USA,New York,1971-03-22,Investment,Yes,Referral,4.1,25882000,3,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100192,Individual,Male,India,Bengaluru,1985-05-07,Business Use,Yes,Referral,4.0,39741000,9,41,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100193,Individual,Male,India,Mumbai,1988-07-16,Personal Use,Yes,Referral,4.4,7421000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100194,Individual,Female,USA,New York,1983-06-03,Business Use,Yes,Online,4.3,50878000,13,43,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100195,Individual,Female,India,Bengaluru,1998-10-28,Personal Use,Yes,Social Media,2.7,8646000,2,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100196,Individual,Male,India,Hyderabad,1998-12-06,Personal Use,Yes,Online,4.2,3999000,1,28,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100197,Individual,Male,UAE,Abu Dhabi,1971-03-29,Investment,Yes,Agent,5.0,18756000,5,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100198,Individual,Male,USA,California,1970-01-18,Business Use,Yes,Social Media,4.0,77859000,12,56,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100199,Corporate,Male,India,Pune,1980-02-22,Investment,Yes,Online,4.9,22821000,4,46,1,2,C1: Affluent Global & Portfolio Investors
+CL100200,Individual,Female,India,Bengaluru,1975-09-13,Business Use,No,Direct,3.1,93527000,8,51,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100201,Corporate,Female,UK,Birmingham,1971-08-25,Investment,Yes,Social Media,4.5,50713000,2,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100202,Individual,Female,Singapore,Central,1987-08-24,Business Use,No,Online,3.9,88504000,15,39,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100203,Corporate,Female,UAE,Sharjah,1965-04-20,Investment,No,Social Media,4.5,19339000,1,61,1,2,C1: Affluent Global & Portfolio Investors
+CL100204,Individual,Prefer not to say,India,Mumbai,1994-05-20,Personal Use,Yes,Direct,1.9,5383000,1,32,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100205,Individual,Female,India,Delhi NCR,1993-03-17,Personal Use,Yes,Social Media,3.6,5530000,2,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100206,Corporate,Male,India,Delhi NCR,2001-01-22,Personal Use,No,Online,4.4,6491000,1,25,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100207,Individual,Male,India,Mumbai,1979-08-12,Investment,No,Social Media,5.0,59844000,2,47,1,2,C1: Affluent Global & Portfolio Investors
+CL100208,Individual,Male,UK,London,1992-05-05,Personal Use,Yes,Referral,4.1,9147000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100209,Individual,Male,India,Mumbai,1965-07-03,Investment,No,Agent,4.4,31007000,5,61,1,2,C1: Affluent Global & Portfolio Investors
+CL100210,Individual,Male,UAE,Sharjah,1975-01-19,Investment,No,Direct,4.1,30945000,5,51,1,2,C1: Affluent Global & Portfolio Investors
+CL100211,Individual,Male,UK,Birmingham,1994-08-26,Personal Use,Yes,Referral,3.8,6170000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100212,Individual,Female,UAE,Sharjah,1978-10-26,Investment,No,Social Media,4.9,1500000,5,48,1,2,C1: Affluent Global & Portfolio Investors
+CL100213,Individual,Female,India,Hyderabad,1980-08-16,Business Use,No,Referral,4.5,75733000,7,46,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100214,Individual,Female,USA,California,1994-05-22,Investment,Yes,Online,4.1,10544000,1,32,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100215,Individual,Male,UK,London,1995-01-20,Personal Use,No,Direct,3.9,3100000,1,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100216,Individual,Female,UK,Birmingham,1976-03-05,Business Use,Yes,Referral,2.9,59969000,6,50,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100217,Individual,Male,India,Pune,1989-12-26,Personal Use,Yes,Agent,3.5,7111000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100218,Individual,Male,India,Hyderabad,1992-06-30,Investment,Yes,Agent,4.3,11172000,1,34,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100219,Individual,Male,USA,California,1990-11-05,Investment,No,Online,4.8,35449000,1,36,1,2,C1: Affluent Global & Portfolio Investors
+CL100220,Individual,Male,India,Pune,1993-08-22,Personal Use,No,Referral,3.9,4161000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100221,Individual,Male,India,Pune,1995-01-23,Personal Use,No,Agent,4.1,7951000,1,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100222,Individual,Female,UAE,Abu Dhabi,1981-01-07,Investment,No,Direct,4.6,24388000,2,45,1,2,C1: Affluent Global & Portfolio Investors
+CL100223,Individual,Female,UK,London,1973-11-06,Business Use,No,Direct,3.8,86697000,3,53,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100224,Individual,Female,Singapore,West,1985-11-11,Investment,No,Social Media,4.0,17857000,1,41,1,2,C1: Affluent Global & Portfolio Investors
+CL100225,Individual,Male,India,Pune,2001-04-22,Personal Use,Yes,Online,3.6,7326000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100226,Individual,Female,USA,California,1995-08-06,Personal Use,Yes,Referral,3.1,6291000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100227,Individual,Female,India,Pune,1966-07-29,Investment,No,Online,5.0,34986000,1,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100228,Individual,Male,UAE,Dubai,1971-02-18,Investment,No,Social Media,3.4,23598000,4,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100229,Individual,Female,UAE,Abu Dhabi,1984-01-31,Investment,No,Agent,4.3,21577000,3,42,1,2,C1: Affluent Global & Portfolio Investors
+CL100230,Individual,Male,India,Hyderabad,1984-02-08,Investment,No,Direct,4.5,27356000,2,42,1,2,C1: Affluent Global & Portfolio Investors
+CL100231,Individual,Male,India,Pune,1999-03-23,Personal Use,No,Agent,5.0,3685000,1,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100232,Individual,Male,India,Delhi NCR,1964-01-10,Investment,No,Online,4.1,12660000,3,62,1,2,C1: Affluent Global & Portfolio Investors
+CL100233,Individual,Male,Singapore,West,1973-04-14,Investment,No,Direct,4.7,37075000,2,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100234,Individual,Male,UAE,Abu Dhabi,2000-02-14,Personal Use,Yes,Agent,3.3,5607000,1,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100235,Individual,Male,USA,New York,1995-06-19,Personal Use,No,Social Media,3.8,7657000,1,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100236,Individual,Male,USA,New York,1999-12-15,Personal Use,Yes,Direct,4.4,8460000,1,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100237,Corporate,Other,India,Bengaluru,1971-03-10,Investment,Yes,Agent,3.8,28870000,2,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100238,Individual,Male,UK,Birmingham,1978-01-28,Investment,No,Agent,4.3,20958000,2,48,1,2,C1: Affluent Global & Portfolio Investors
+CL100239,Individual,Male,India,Hyderabad,1993-09-10,Personal Use,No,Referral,3.5,6990000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100240,Individual,Male,India,Pune,1993-07-29,Personal Use,No,Social Media,3.9,6517000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100241,Individual,Female,USA,New York,1989-06-07,Investment,No,Direct,5.0,41389000,5,37,1,2,C1: Affluent Global & Portfolio Investors
+CL100242,Individual,Male,USA,Texas,1995-05-10,Personal Use,Yes,Online,3.3,4650000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100243,Individual,Female,India,Bengaluru,1972-04-30,Investment,No,Referral,3.9,26739000,6,54,1,2,C1: Affluent Global & Portfolio Investors
+CL100244,Corporate,Male,UAE,Abu Dhabi,1976-08-11,Investment,No,Online,5.0,63950000,5,50,1,2,C1: Affluent Global & Portfolio Investors
+CL100245,Corporate,Male,UAE,Abu Dhabi,1977-02-24,Investment,Yes,Referral,3.8,29764000,3,49,1,2,C1: Affluent Global & Portfolio Investors
+CL100246,Individual,Male,USA,New York,1996-03-11,Personal Use,Yes,Social Media,3.9,3891000,1,30,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100247,Individual,Male,UAE,Abu Dhabi,1995-01-24,Personal Use,No,Direct,3.2,6631000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100248,Individual,Female,India,Delhi NCR,1992-06-05,Personal Use,Yes,Agent,3.6,4925000,1,34,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100249,Individual,Female,India,Pune,2002-12-05,Personal Use,Yes,Agent,3.9,4575000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100250,Individual,Male,India,Bengaluru,1966-02-28,Investment,Yes,Online,4.1,32926000,2,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100251,Corporate,Prefer not to say,UAE,Sharjah,1980-12-03,Investment,No,Online,4.6,18644000,4,46,1,2,C1: Affluent Global & Portfolio Investors
+CL100252,Individual,Male,USA,Florida,1978-10-24,Personal Use,No,Agent,4.6,49591000,2,48,1,2,C1: Affluent Global & Portfolio Investors
+CL100253,Individual,Male,India,Pune,1984-09-19,Business Use,No,Social Media,5.0,61332000,4,42,1,1,C1: Affluent Global & Portfolio Investors
+CL100254,Corporate,Male,India,Bengaluru,1994-10-27,Business Use,Yes,Agent,4.3,90530000,6,32,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100255,Individual,Male,India,Pune,2000-04-12,Personal Use,Yes,Agent,3.2,5702000,1,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100256,Individual,Female,UK,Manchester,1999-07-26,Personal Use,Yes,Referral,5.0,5770000,1,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100257,Corporate,Male,USA,New York,1991-10-14,Investment,No,Online,5.0,21968000,4,35,1,2,C1: Affluent Global & Portfolio Investors
+CL100258,Individual,Male,India,Bengaluru,1988-01-01,Personal Use,Yes,Online,3.9,3578000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100259,Individual,Male,India,Delhi NCR,1970-10-16,Investment,No,Direct,2.4,13028000,3,56,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100260,Individual,Male,UAE,Dubai,1984-04-24,Investment,No,Online,3.7,42966000,5,42,1,2,C1: Affluent Global & Portfolio Investors
+CL100261,Corporate,Male,India,Mumbai,1991-03-19,Personal Use,Yes,Agent,3.1,7878000,1,35,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100262,Individual,Female,USA,Florida,1997-09-15,Personal Use,Yes,Referral,3.3,5905000,1,29,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100263,Individual,Prefer not to say,India,Hyderabad,1995-12-07,Personal Use,Yes,Online,3.4,9068000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100264,Individual,Male,India,Mumbai,1968-06-12,Personal Use,No,Online,3.9,62375000,4,58,1,1,C1: Affluent Global & Portfolio Investors
+CL100265,Individual,Male,USA,New York,1979-03-23,Investment,Yes,Online,4.3,14156000,4,47,1,2,C1: Affluent Global & Portfolio Investors
+CL100266,Corporate,Male,India,Mumbai,1982-12-08,Investment,No,Agent,2.9,11879000,3,44,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100267,Individual,Male,India,Bengaluru,1985-03-17,Investment,Yes,Direct,4.0,20083000,4,41,1,2,C1: Affluent Global & Portfolio Investors
+CL100268,Corporate,Female,India,Pune,1967-11-01,Business Use,No,Agent,4.8,33035000,6,59,1,1,C1: Affluent Global & Portfolio Investors
+CL100269,Individual,Other,India,Hyderabad,1979-09-30,Investment,Yes,Agent,3.9,44490000,5,47,1,2,C1: Affluent Global & Portfolio Investors
+CL100270,Individual,Male,India,Pune,1981-05-19,Investment,No,Agent,3.3,27363000,1,45,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100271,Corporate,Other,India,Delhi NCR,1962-12-15,Investment,Yes,Direct,4.4,40679000,5,64,1,2,C1: Affluent Global & Portfolio Investors
+CL100272,Individual,Female,India,Pune,1990-09-13,Personal Use,No,Online,2.9,3901000,1,36,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100273,Individual,Female,India,Pune,1990-11-13,Business Use,No,Social Media,3.7,41902000,3,36,1,2,C1: Affluent Global & Portfolio Investors
+CL100274,Corporate,Female,UAE,Dubai,1970-10-16,Investment,Yes,Agent,3.4,15716000,4,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100275,Individual,Female,UK,Birmingham,1999-03-26,Personal Use,Yes,Direct,3.8,4375000,1,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100276,Individual,Female,India,Mumbai,1974-10-11,Business Use,No,Agent,4.5,39047000,14,52,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100277,Corporate,Male,India,Pune,1995-12-18,Personal Use,No,Online,2.9,8403000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100278,Individual,Male,UAE,Sharjah,1992-10-15,Investment,No,Agent,3.5,11524000,3,34,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100279,Individual,Male,USA,California,1982-12-02,Investment,Yes,Online,4.9,47000000,5,44,1,2,C1: Affluent Global & Portfolio Investors
+CL100280,Individual,Male,USA,Texas,1974-05-20,Investment,No,Social Media,4.1,31430000,2,52,1,1,C1: Affluent Global & Portfolio Investors
+CL100281,Individual,Female,India,Hyderabad,2001-01-11,Personal Use,Yes,Referral,3.1,5896000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100282,Individual,Male,India,Hyderabad,1974-11-02,Business Use,Yes,Referral,5.0,78998000,10,52,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100283,Individual,Male,India,Bengaluru,1964-04-10,Investment,No,Online,4.5,27928000,5,62,1,2,C1: Affluent Global & Portfolio Investors
+CL100284,Individual,Male,India,Pune,1985-08-22,Investment,Yes,Referral,3.4,8360000,3,41,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100285,Individual,Male,UAE,Abu Dhabi,1963-12-07,Investment,No,Agent,3.9,58076000,6,63,1,1,C1: Affluent Global & Portfolio Investors
+CL100286,Individual,Female,India,Mumbai,1993-04-25,Personal Use,No,Direct,3.7,4986000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100287,Individual,Female,India,Bengaluru,1968-10-17,Business Use,No,Referral,4.0,71407000,4,58,1,1,C1: Affluent Global & Portfolio Investors
+CL100288,Individual,Male,India,Mumbai,1995-06-29,Investment,No,Referral,4.4,30521000,4,31,1,2,C1: Affluent Global & Portfolio Investors
+CL100289,Individual,Male,UAE,Abu Dhabi,2002-07-01,Personal Use,Yes,Social Media,5.0,3859000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100290,Individual,Male,India,Pune,1994-05-29,Personal Use,No,Referral,2.7,5655000,1,32,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100291,Individual,Male,USA,California,1993-11-13,Personal Use,Yes,Referral,3.2,8843000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100292,Corporate,Female,India,Delhi NCR,1967-10-03,Investment,No,Online,4.5,39766000,4,59,1,2,C1: Affluent Global & Portfolio Investors
+CL100293,Individual,Female,USA,Florida,1975-04-08,Investment,Yes,Referral,4.6,13762000,4,51,1,2,C1: Affluent Global & Portfolio Investors
+CL100294,Individual,Male,India,Mumbai,1983-01-27,Investment,No,Agent,4.6,16535000,3,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100295,Corporate,Male,USA,Florida,1991-12-29,Personal Use,Yes,Online,3.9,10305000,1,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100296,Individual,Prefer not to say,USA,Texas,1993-08-03,Personal Use,No,Social Media,4.9,5273000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100297,Individual,Female,Singapore,Central,1990-02-15,Personal Use,Yes,Online,4.5,6241000,1,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100298,Individual,Male,USA,Texas,1992-09-19,Personal Use,No,Referral,4.5,4862000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100299,Individual,Male,UK,London,1962-07-23,Investment,No,Online,3.7,53723000,6,64,1,2,C1: Affluent Global & Portfolio Investors
+CL100300,Individual,Male,UAE,Dubai,1971-02-06,Business Use,No,Agent,4.0,68732000,12,55,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100301,Individual,Other,UK,Birmingham,1994-01-14,Investment,Yes,Social Media,4.1,17176000,3,32,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100302,Individual,Male,India,Delhi NCR,1998-05-08,Personal Use,Yes,Online,2.7,8352000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100303,Individual,Male,UAE,Dubai,1980-04-23,Business Use,No,Referral,4.5,72271000,5,46,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100304,Corporate,Prefer not to say,UAE,Sharjah,2001-05-22,Personal Use,Yes,Referral,4.3,7679000,1,25,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100305,Individual,Female,USA,New York,1973-09-20,Investment,No,Social Media,4.1,24018000,1,53,1,1,C1: Affluent Global & Portfolio Investors
+CL100306,Individual,Male,India,Bengaluru,1997-02-12,Personal Use,Yes,Online,4.7,4093000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100307,Individual,Male,India,Delhi NCR,1993-12-20,Personal Use,Yes,Social Media,3.4,6930000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100308,Corporate,Male,UAE,Dubai,1973-12-11,Investment,No,Agent,3.3,31561000,2,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100309,Individual,Female,India,Delhi NCR,1978-05-28,Business Use,Yes,Agent,3.7,46755000,13,48,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100310,Individual,Male,India,Pune,1992-03-02,Personal Use,No,Agent,2.9,7792000,1,34,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100311,Individual,Female,India,Hyderabad,1998-03-11,Personal Use,Yes,Agent,3.7,8072000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100312,Individual,Female,India,Hyderabad,1988-04-29,Personal Use,Yes,Agent,3.9,9146000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100313,Individual,Male,India,Pune,1971-08-18,Investment,No,Online,4.8,56002000,4,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100314,Individual,Female,India,Mumbai,1967-08-24,Investment,Yes,Agent,4.1,25236000,4,59,1,2,C1: Affluent Global & Portfolio Investors
+CL100315,Individual,Male,India,Mumbai,1986-07-31,Investment,Yes,Referral,3.6,28123000,4,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100316,Corporate,Male,India,Mumbai,1997-09-30,Personal Use,Yes,Agent,4.2,5841000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100317,Individual,Female,India,Mumbai,1997-08-02,Personal Use,Yes,Online,3.2,3497000,1,29,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100318,Individual,Male,UK,Birmingham,1992-11-24,Personal Use,Yes,Online,4.1,4010000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100319,Individual,Male,India,Mumbai,1963-09-08,Business Use,Yes,Agent,4.2,61863000,6,63,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100320,Individual,Prefer not to say,Singapore,Central,1969-01-23,Investment,No,Referral,4.2,2522000,2,57,1,2,C1: Affluent Global & Portfolio Investors
+CL100321,Individual,Male,USA,California,1973-04-18,Investment,Yes,Direct,3.1,33994000,4,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100322,Individual,Male,UAE,Sharjah,1988-11-11,Personal Use,Yes,Referral,3.6,5389000,1,38,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100323,Individual,Female,India,Hyderabad,1986-09-20,Business Use,No,Referral,4.8,100517000,11,40,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100324,Individual,Female,UAE,Abu Dhabi,1970-09-30,Investment,Yes,Online,4.6,32175000,3,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100325,Individual,Female,USA,Florida,1974-09-22,Business Use,Yes,Direct,4.9,56340000,10,52,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100326,Individual,Female,UAE,Abu Dhabi,2001-04-24,Personal Use,No,Agent,3.4,6334000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100327,Individual,Male,USA,New York,1961-02-09,Business Use,No,Online,3.7,97335000,14,65,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100328,Individual,Female,UAE,Dubai,1971-04-18,Business Use,Yes,Online,3.6,80187000,13,55,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100329,Individual,Male,UAE,Abu Dhabi,1979-07-08,Investment,No,Online,5.0,17634000,1,47,1,2,C1: Affluent Global & Portfolio Investors
+CL100330,Individual,Male,India,Mumbai,1988-11-04,Personal Use,Yes,Social Media,3.7,6064000,1,38,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100331,Individual,Other,UK,Birmingham,1966-11-11,Business Use,Yes,Online,4.0,46739000,7,60,0,2,C3: High-Volume Business & Multi-Unit Buyers
+CL100332,Individual,Male,India,Mumbai,1999-03-11,Personal Use,Yes,Online,4.4,4928000,2,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100333,Corporate,Male,UK,Birmingham,1995-04-30,Business Use,No,Online,3.7,64264000,9,31,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100334,Corporate,Male,USA,New York,1992-06-29,Personal Use,Yes,Direct,3.3,8139000,1,34,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100335,Individual,Male,India,Mumbai,1989-06-05,Personal Use,No,Social Media,4.1,5807000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100336,Individual,Male,UAE,Dubai,1964-02-27,Investment,Yes,Direct,4.1,17846000,5,62,1,2,C1: Affluent Global & Portfolio Investors
+CL100337,Individual,Male,India,Mumbai,1978-03-11,Business Use,Yes,Social Media,5.0,81986000,5,48,0,2,C3: High-Volume Business & Multi-Unit Buyers
+CL100338,Individual,Female,UK,London,1977-12-01,Investment,No,Direct,4.9,39571000,3,49,1,2,C1: Affluent Global & Portfolio Investors
+CL100339,Individual,Male,India,Mumbai,1958-08-11,Investment,No,Agent,3.5,11883000,1,68,1,2,C1: Affluent Global & Portfolio Investors
+CL100340,Corporate,Male,USA,Texas,1988-12-17,Personal Use,Yes,Online,4.7,7043000,2,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100341,Corporate,Male,India,Hyderabad,1976-08-14,Investment,No,Agent,4.2,25988000,1,50,1,2,C1: Affluent Global & Portfolio Investors
+CL100342,Individual,Female,Singapore,Central,1985-05-14,Investment,Yes,Online,3.6,22666000,2,41,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100343,Individual,Male,USA,California,1975-10-18,Investment,No,Referral,4.0,57671000,4,51,1,2,C1: Affluent Global & Portfolio Investors
+CL100344,Individual,Male,UAE,Sharjah,2002-11-09,Personal Use,Yes,Online,3.4,7609000,1,24,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100345,Individual,Male,UK,London,1992-07-06,Personal Use,Yes,Online,3.9,9454000,2,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100346,Corporate,Female,USA,Texas,1994-06-25,Personal Use,Yes,Referral,3.7,6991000,1,32,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100347,Individual,Female,Singapore,Central,1963-04-17,Investment,No,Online,5.0,32060000,3,63,1,2,C1: Affluent Global & Portfolio Investors
+CL100348,Corporate,Female,India,Pune,1989-12-27,Personal Use,Yes,Online,2.8,7529000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100349,Individual,Female,UAE,Abu Dhabi,1994-10-04,Business Use,No,Online,5.0,81753000,8,32,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100350,Individual,Male,India,Pune,1997-03-23,Personal Use,Yes,Referral,4.0,7169000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100351,Individual,Male,UAE,Dubai,1969-04-28,Investment,Yes,Online,5.0,10281000,2,57,1,2,C1: Affluent Global & Portfolio Investors
+CL100352,Individual,Male,India,Hyderabad,1982-02-08,Business Use,No,Online,4.4,60570000,13,44,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100353,Individual,Male,UAE,Abu Dhabi,1995-03-11,Investment,No,Online,5.0,21262000,4,31,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100354,Individual,Male,UAE,Abu Dhabi,1981-03-01,Business Use,No,Social Media,4.0,82486000,10,45,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100355,Individual,Male,India,Pune,1993-06-29,Personal Use,Yes,Online,5.0,8780000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100356,Corporate,Male,UAE,Sharjah,1976-01-18,Business Use,No,Online,4.8,72964000,7,50,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100357,Individual,Male,UK,Birmingham,1988-08-03,Business Use,No,Direct,4.6,86149000,5,38,0,2,C3: High-Volume Business & Multi-Unit Buyers
+CL100358,Individual,Male,USA,California,1983-02-07,Business Use,Yes,Social Media,4.4,80668000,9,43,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100359,Individual,Female,UAE,Abu Dhabi,1980-08-11,Investment,No,Online,3.9,26339000,5,46,1,2,C1: Affluent Global & Portfolio Investors
+CL100360,Individual,Female,UAE,Abu Dhabi,1969-07-23,Business Use,No,Online,4.0,116226000,4,57,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100361,Individual,Male,USA,New York,1987-04-27,Investment,No,Online,5.0,48722000,4,39,1,2,C1: Affluent Global & Portfolio Investors
+CL100362,Individual,Male,India,Mumbai,1982-08-10,Investment,No,Referral,4.9,15870000,2,44,1,2,C1: Affluent Global & Portfolio Investors
+CL100363,Individual,Female,India,Bengaluru,1994-11-10,Personal Use,Yes,Online,2.8,5974000,1,32,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100364,Individual,Female,India,Hyderabad,1971-02-09,Investment,No,Direct,4.3,36334000,5,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100365,Corporate,Male,UAE,Dubai,1970-07-21,Investment,Yes,Social Media,3.6,21706000,5,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100366,Individual,Male,India,Mumbai,1973-01-28,Business Use,Yes,Referral,4.6,97890000,11,53,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100367,Corporate,Female,UK,Manchester,1985-08-09,Business Use,No,Online,3.5,27950000,11,41,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100368,Individual,Female,UK,Birmingham,1995-01-12,Investment,No,Direct,4.6,24687000,2,31,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100369,Individual,Male,India,Mumbai,1991-05-27,Personal Use,Yes,Referral,4.5,8755000,1,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100370,Individual,Male,USA,Florida,1991-03-28,Personal Use,Yes,Social Media,4.1,2600000,2,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100371,Individual,Female,UK,Manchester,1995-04-02,Personal Use,Yes,Online,4.4,8606000,1,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100372,Individual,Male,India,Hyderabad,1965-10-20,Personal Use,Yes,Referral,4.6,53319000,3,61,1,1,C1: Affluent Global & Portfolio Investors
+CL100373,Individual,Female,India,Bengaluru,1980-03-10,Investment,No,Social Media,5.0,19155000,1,46,1,2,C1: Affluent Global & Portfolio Investors
+CL100374,Individual,Male,India,Delhi NCR,1993-01-22,Personal Use,Yes,Direct,3.5,5283000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100375,Individual,Male,India,Mumbai,1983-05-06,Investment,No,Referral,4.3,61754000,5,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100376,Individual,Male,India,Bengaluru,1992-01-22,Investment,Yes,Agent,5.0,26637000,5,34,1,2,C1: Affluent Global & Portfolio Investors
+CL100377,Individual,Male,USA,California,1966-02-28,Investment,No,Agent,5.0,53725000,4,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100378,Corporate,Female,India,Pune,1996-05-03,Investment,No,Referral,3.8,15808000,2,30,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100379,Individual,Male,India,Bengaluru,1987-07-12,Personal Use,Yes,Direct,2.4,6661000,1,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100380,Corporate,Other,UK,London,1988-02-24,Investment,Yes,Referral,3.2,19685000,3,38,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100381,Individual,Male,UAE,Dubai,1983-10-27,Business Use,Yes,Online,5.0,83310000,6,43,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100382,Corporate,Female,USA,Florida,1961-06-11,Investment,Yes,Online,4.5,55590000,3,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100383,Corporate,Female,UK,Birmingham,1981-03-10,Personal Use,No,Referral,4.5,41182000,2,45,1,2,C1: Affluent Global & Portfolio Investors
+CL100384,Individual,Male,India,Pune,1983-01-23,Investment,No,Social Media,3.9,66871000,3,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100385,Individual,Male,India,Pune,1993-09-26,Business Use,No,Online,3.1,44820000,7,33,0,2,C3: High-Volume Business & Multi-Unit Buyers
+CL100386,Individual,Female,Singapore,Central,1970-11-29,Business Use,No,Agent,3.5,64345000,11,56,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100387,Individual,Male,UK,London,1993-09-02,Personal Use,No,Direct,4.0,7711000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100388,Individual,Other,Singapore,Central,1972-02-21,Investment,No,Agent,4.0,21747000,5,54,1,2,C1: Affluent Global & Portfolio Investors
+CL100389,Individual,Male,India,Hyderabad,1990-06-25,Business Use,No,Online,3.9,101090000,15,36,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100390,Corporate,Male,USA,Florida,1986-12-13,Personal Use,No,Agent,5.0,39216000,5,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100391,Individual,Male,UAE,Sharjah,1956-11-19,Investment,Yes,Agent,3.8,22912000,3,70,1,2,C1: Affluent Global & Portfolio Investors
+CL100392,Individual,Female,India,Hyderabad,1992-08-31,Personal Use,Yes,Online,4.2,5284000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100393,Individual,Prefer not to say,UAE,Sharjah,1977-08-29,Business Use,No,Referral,3.6,64276000,11,49,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100394,Individual,Male,UK,Manchester,1981-11-13,Investment,Yes,Referral,3.8,24792000,5,45,1,2,C1: Affluent Global & Portfolio Investors
+CL100395,Individual,Female,India,Hyderabad,1970-07-06,Investment,Yes,Referral,3.7,25547000,1,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100396,Individual,Female,India,Pune,1983-07-12,Investment,No,Referral,4.6,35070000,4,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100397,Individual,Male,USA,Florida,2000-10-21,Personal Use,Yes,Online,2.5,7324000,2,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100398,Individual,Male,India,Mumbai,1955-10-10,Investment,Yes,Online,4.6,23809000,5,71,1,2,C1: Affluent Global & Portfolio Investors
+CL100399,Individual,Female,India,Delhi NCR,1994-05-05,Personal Use,Yes,Online,3.7,8795000,1,32,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100400,Individual,Female,India,Bengaluru,1995-01-20,Personal Use,Yes,Online,2.9,7064000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100401,Individual,Male,India,Delhi NCR,1978-01-04,Business Use,No,Referral,4.0,76524000,5,48,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100402,Corporate,Female,USA,Texas,1972-06-11,Investment,No,Online,4.7,41750000,4,54,1,2,C1: Affluent Global & Portfolio Investors
+CL100403,Corporate,Male,UK,Birmingham,1974-12-19,Investment,No,Referral,4.6,42104000,4,52,1,2,C1: Affluent Global & Portfolio Investors
+CL100404,Individual,Female,India,Hyderabad,1972-02-09,Business Use,Yes,Online,4.0,103558000,8,54,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100405,Individual,Female,Singapore,Central,1985-01-20,Business Use,Yes,Online,4.2,77179000,14,41,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100406,Individual,Female,USA,Florida,1988-09-22,Personal Use,Yes,Online,3.7,5559000,1,38,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100407,Individual,Male,India,Bengaluru,1972-08-08,Investment,No,Agent,4.5,65636000,6,54,1,1,C1: Affluent Global & Portfolio Investors
+CL100408,Individual,Male,USA,Texas,1975-12-24,Investment,No,Referral,4.8,19215000,3,51,1,2,C1: Affluent Global & Portfolio Investors
+CL100409,Individual,Male,India,Delhi NCR,1988-03-15,Investment,Yes,Social Media,4.4,3172000,2,38,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100410,Individual,Male,Singapore,Central,1983-03-25,Personal Use,No,Online,4.5,40256000,4,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100411,Corporate,Female,UK,Manchester,1961-12-25,Personal Use,No,Referral,4.5,48771000,3,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100412,Individual,Male,UAE,Dubai,1994-04-21,Personal Use,Yes,Social Media,3.9,7500000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100413,Corporate,Male,India,Hyderabad,1968-08-04,Business Use,Yes,Agent,5.0,48229000,11,58,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100414,Individual,Male,USA,Florida,2002-06-17,Personal Use,Yes,Online,4.5,6038000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100415,Corporate,Male,India,Hyderabad,1995-10-15,Personal Use,No,Online,4.9,4853000,1,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100416,Individual,Male,India,Hyderabad,1993-03-10,Personal Use,Yes,Online,5.0,8079000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100417,Individual,Female,India,Delhi NCR,1959-08-08,Investment,No,Direct,3.7,31000000,4,67,1,2,C1: Affluent Global & Portfolio Investors
+CL100418,Corporate,Female,UK,Birmingham,1996-03-01,Personal Use,No,Agent,3.0,5719000,1,30,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100419,Corporate,Male,India,Hyderabad,1998-11-09,Personal Use,Yes,Agent,2.5,6164000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100420,Individual,Female,USA,California,1991-06-02,Personal Use,Yes,Social Media,4.2,5181000,2,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100421,Individual,Female,UAE,Abu Dhabi,1963-09-11,Investment,Yes,Agent,3.5,27236000,5,63,1,2,C1: Affluent Global & Portfolio Investors
+CL100422,Individual,Male,India,Pune,1986-01-15,Investment,No,Referral,4.8,42598000,2,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100423,Individual,Female,India,Hyderabad,1973-06-12,Business Use,Yes,Online,3.7,72649000,12,53,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100424,Individual,Male,India,Pune,1964-04-14,Investment,No,Agent,4.1,33287000,6,62,1,1,C1: Affluent Global & Portfolio Investors
+CL100425,Corporate,Male,UAE,Abu Dhabi,1966-12-02,Investment,Yes,Online,4.0,22346000,3,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100426,Individual,Male,USA,Florida,1983-04-30,Business Use,Yes,Online,4.4,45679000,3,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100427,Individual,Male,India,Bengaluru,1968-11-26,Investment,No,Online,5.0,47471000,5,58,1,2,C1: Affluent Global & Portfolio Investors
+CL100428,Individual,Female,USA,Florida,1992-08-23,Personal Use,Yes,Referral,4.6,10022000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100429,Individual,Female,India,Delhi NCR,1971-10-13,Investment,No,Referral,4.2,14527000,1,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100430,Individual,Female,USA,New York,1993-01-01,Personal Use,Yes,Social Media,3.2,7478000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100431,Individual,Male,USA,Florida,1989-06-02,Personal Use,Yes,Online,2.3,5623000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100432,Individual,Male,UK,Birmingham,1999-10-07,Personal Use,Yes,Direct,4.5,7987000,1,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100433,Individual,Prefer not to say,UK,London,2000-06-28,Personal Use,Yes,Online,3.3,5319000,1,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100434,Corporate,Male,USA,California,1995-03-30,Personal Use,Yes,Social Media,3.0,3853000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100435,Individual,Male,India,Bengaluru,1974-10-29,Business Use,No,Social Media,4.2,43827000,5,52,1,1,C1: Affluent Global & Portfolio Investors
+CL100436,Corporate,Male,India,Mumbai,1960-04-17,Investment,No,Referral,5.0,23368000,5,66,1,2,C1: Affluent Global & Portfolio Investors
+CL100437,Individual,Male,India,Pune,1987-09-16,Personal Use,No,Agent,3.1,7290000,1,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100438,Individual,Male,UAE,Sharjah,1991-09-04,Business Use,No,Social Media,3.8,81708000,5,35,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100439,Individual,Male,UK,London,1989-06-05,Investment,No,Referral,5.0,16415000,1,37,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100440,Individual,Female,UAE,Sharjah,1993-05-18,Investment,No,Online,3.9,12985000,1,33,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100441,Individual,Male,USA,Texas,1991-05-08,Investment,Yes,Social Media,3.1,21030000,4,35,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100442,Individual,Male,India,Delhi NCR,1993-10-22,Investment,No,Online,3.7,28945000,4,33,1,2,C1: Affluent Global & Portfolio Investors
+CL100443,Individual,Male,UK,Birmingham,1998-06-05,Personal Use,Yes,Agent,2.6,6513000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100444,Individual,Male,India,Mumbai,1989-09-27,Investment,No,Referral,3.0,22212000,5,37,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100445,Individual,Female,India,Mumbai,1994-09-23,Personal Use,Yes,Social Media,3.9,7843000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100446,Individual,Male,UK,Manchester,1970-01-22,Investment,No,Agent,4.0,33051000,4,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100447,Individual,Female,Singapore,West,1986-11-27,Personal Use,No,Online,4.2,38554000,6,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100448,Individual,Female,UAE,Abu Dhabi,1976-08-04,Investment,No,Agent,4.5,10243000,4,50,1,2,C1: Affluent Global & Portfolio Investors
+CL100449,Individual,Male,India,Bengaluru,1988-07-25,Personal Use,No,Online,3.9,6049000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100450,Individual,Female,UAE,Abu Dhabi,2002-10-05,Personal Use,Yes,Agent,4.8,3517000,2,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100451,Individual,Female,India,Hyderabad,1967-03-22,Investment,Yes,Agent,4.5,25099000,5,59,1,2,C1: Affluent Global & Portfolio Investors
+CL100452,Individual,Male,USA,Texas,1984-07-08,Investment,Yes,Social Media,4.9,57520000,4,42,1,2,C1: Affluent Global & Portfolio Investors
+CL100453,Individual,Male,UK,London,1968-04-14,Investment,No,Online,4.3,21139000,2,58,1,2,C1: Affluent Global & Portfolio Investors
+CL100454,Individual,Male,India,Hyderabad,1955-08-14,Investment,No,Online,4.4,37498000,4,71,1,2,C1: Affluent Global & Portfolio Investors
+CL100455,Corporate,Prefer not to say,India,Delhi NCR,1993-02-08,Personal Use,No,Agent,4.2,5139000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100456,Individual,Female,India,Hyderabad,1978-04-11,Investment,Yes,Online,4.0,38343000,4,48,1,2,C1: Affluent Global & Portfolio Investors
+CL100457,Corporate,Female,Singapore,East,1980-09-02,Personal Use,Yes,Online,4.6,32416000,5,46,1,2,C1: Affluent Global & Portfolio Investors
+CL100458,Individual,Female,India,Delhi NCR,1972-01-16,Investment,No,Agent,4.3,20704000,4,54,1,2,C1: Affluent Global & Portfolio Investors
+CL100459,Individual,Male,UK,Birmingham,1992-02-21,Personal Use,Yes,Agent,4.5,6187000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100460,Individual,Female,UAE,Abu Dhabi,1958-06-01,Investment,No,Online,4.0,29070000,5,68,1,2,C1: Affluent Global & Portfolio Investors
+CL100461,Individual,Male,UAE,Dubai,1968-12-26,Business Use,No,Referral,3.8,65566000,3,58,1,1,C1: Affluent Global & Portfolio Investors
+CL100462,Corporate,Female,India,Pune,1959-06-01,Investment,No,Social Media,3.6,66251000,3,67,1,1,C1: Affluent Global & Portfolio Investors
+CL100463,Individual,Male,Singapore,West,1991-04-25,Personal Use,No,Referral,2.3,7429000,1,35,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100464,Individual,Male,India,Delhi NCR,1970-08-22,Investment,Yes,Online,4.3,17606000,4,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100465,Individual,Female,UAE,Dubai,1987-11-11,Personal Use,Yes,Online,3.3,8496000,1,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100466,Individual,Female,UK,London,1996-06-09,Personal Use,No,Online,4.6,4666000,1,30,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100467,Individual,Female,UAE,Dubai,1962-03-16,Investment,No,Referral,4.8,44467000,4,64,1,2,C1: Affluent Global & Portfolio Investors
+CL100468,Individual,Male,Singapore,Central,2001-09-07,Personal Use,No,Referral,3.4,8291000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100469,Individual,Male,India,Pune,1974-07-20,Investment,No,Online,4.0,64159000,4,52,1,1,C1: Affluent Global & Portfolio Investors
+CL100470,Corporate,Prefer not to say,UAE,Dubai,2002-01-01,Personal Use,Yes,Online,4.5,5077000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100471,Individual,Male,India,Bengaluru,1979-04-21,Investment,No,Agent,5.0,43264000,1,47,1,2,C1: Affluent Global & Portfolio Investors
+CL100472,Individual,Male,India,Pune,1992-02-20,Personal Use,No,Agent,3.7,3833000,1,34,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100473,Individual,Male,India,Pune,1955-03-25,Investment,Yes,Direct,4.6,11047000,1,71,1,2,C1: Affluent Global & Portfolio Investors
+CL100474,Corporate,Male,India,Bengaluru,1998-07-30,Personal Use,No,Online,3.5,5300000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100475,Corporate,Male,India,Bengaluru,1987-12-17,Business Use,Yes,Online,3.3,62620000,6,39,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100476,Individual,Male,India,Mumbai,1982-07-07,Investment,No,Agent,4.2,21014000,2,44,1,2,C1: Affluent Global & Portfolio Investors
+CL100477,Individual,Female,India,Delhi NCR,1993-01-23,Investment,No,Online,3.6,8790000,4,33,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100478,Individual,Female,UAE,Sharjah,1988-12-02,Investment,Yes,Online,5.0,19794000,5,38,1,2,C1: Affluent Global & Portfolio Investors
+CL100479,Corporate,Female,UAE,Sharjah,1979-10-16,Investment,No,Agent,3.1,11222000,3,47,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100480,Individual,Male,India,Pune,1970-03-03,Investment,No,Agent,4.5,39041000,6,56,1,1,C1: Affluent Global & Portfolio Investors
+CL100481,Individual,Male,India,Hyderabad,1958-06-09,Investment,No,Online,3.8,32804000,2,68,1,2,C1: Affluent Global & Portfolio Investors
+CL100482,Individual,Female,India,Bengaluru,1960-10-31,Investment,Yes,Referral,4.1,18836000,5,66,1,2,C1: Affluent Global & Portfolio Investors
+CL100483,Individual,Female,UAE,Abu Dhabi,1977-12-24,Business Use,Yes,Online,4.5,54506000,6,49,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100484,Individual,Male,India,Hyderabad,1960-08-05,Business Use,No,Online,4.7,94658000,11,66,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100485,Individual,Female,India,Bengaluru,1974-05-30,Investment,No,Social Media,3.7,54041000,2,52,1,1,C1: Affluent Global & Portfolio Investors
+CL100486,Individual,Female,India,Hyderabad,1990-03-02,Personal Use,No,Online,3.6,4647000,2,36,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100487,Corporate,Female,India,Pune,2002-02-14,Personal Use,Yes,Direct,2.9,8339000,1,24,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100488,Individual,Female,India,Hyderabad,1996-07-18,Personal Use,No,Direct,3.3,6393000,1,30,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100489,Individual,Male,UAE,Dubai,1983-08-01,Investment,Yes,Agent,4.4,45448000,4,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100490,Individual,Male,UAE,Dubai,1974-01-28,Business Use,No,Online,4.3,54444000,12,52,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100491,Corporate,Female,UK,London,1989-03-24,Personal Use,Yes,Social Media,4.4,4778000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100492,Individual,Male,UAE,Abu Dhabi,1969-10-17,Investment,Yes,Agent,3.9,30897000,2,57,1,2,C1: Affluent Global & Portfolio Investors
+CL100493,Individual,Female,UAE,Abu Dhabi,1974-04-29,Business Use,Yes,Online,4.7,70944000,8,52,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100494,Individual,Female,India,Pune,1958-04-16,Investment,No,Referral,4.1,54106000,6,68,1,1,C1: Affluent Global & Portfolio Investors
+CL100495,Individual,Male,UK,London,1989-10-08,Personal Use,No,Agent,3.3,3924000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100496,Individual,Female,UAE,Abu Dhabi,1980-01-11,Business Use,No,Social Media,4.5,70963000,9,46,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100497,Individual,Female,India,Delhi NCR,1987-09-16,Personal Use,Yes,Referral,3.3,4887000,1,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100498,Individual,Female,UAE,Abu Dhabi,1996-06-15,Personal Use,No,Online,3.1,4218000,1,30,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100499,Individual,Male,India,Delhi NCR,1998-07-06,Personal Use,Yes,Referral,3.8,6672000,1,28,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100500,Individual,Female,UAE,Dubai,1961-04-24,Business Use,Yes,Referral,3.4,60312000,12,65,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100501,Corporate,Male,UK,Manchester,1982-02-07,Investment,No,Agent,4.0,41741000,5,44,1,2,C1: Affluent Global & Portfolio Investors
+CL100502,Individual,Female,USA,Florida,1988-08-11,Personal Use,Yes,Direct,3.8,6533000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100503,Individual,Male,USA,Florida,2000-08-14,Personal Use,No,Direct,2.9,4330000,1,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100504,Individual,Female,UAE,Abu Dhabi,1995-04-03,Personal Use,No,Social Media,4.7,6521000,1,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100505,Individual,Female,UAE,Abu Dhabi,1986-01-20,Investment,No,Social Media,4.5,15625000,3,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100506,Individual,Male,USA,Florida,1993-02-04,Personal Use,Yes,Referral,4.4,7334000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100507,Individual,Male,India,Delhi NCR,1993-04-02,Investment,Yes,Online,4.7,21028000,5,33,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100508,Individual,Female,USA,Florida,1997-04-20,Personal Use,No,Social Media,3.5,5548000,1,29,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100509,Individual,Female,UAE,Dubai,1966-03-28,Investment,No,Online,5.0,12147000,5,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100510,Corporate,Male,India,Bengaluru,1998-01-26,Personal Use,Yes,Online,5.0,7514000,1,28,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100511,Corporate,Other,India,Hyderabad,1970-12-30,Investment,No,Agent,4.2,56282000,4,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100512,Individual,Female,USA,New York,1974-06-02,Investment,Yes,Referral,5.0,38205000,3,52,1,2,C1: Affluent Global & Portfolio Investors
+CL100513,Individual,Prefer not to say,India,Mumbai,1967-12-21,Business Use,No,Referral,4.4,44656000,5,59,1,1,C1: Affluent Global & Portfolio Investors
+CL100514,Individual,Prefer not to say,India,Bengaluru,1967-06-06,Investment,No,Online,5.0,35229000,6,59,1,2,C1: Affluent Global & Portfolio Investors
+CL100515,Individual,Female,India,Mumbai,1990-08-11,Personal Use,Yes,Online,4.4,5178000,1,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100516,Individual,Female,India,Mumbai,1963-09-13,Investment,No,Online,4.4,18833000,3,63,1,2,C1: Affluent Global & Portfolio Investors
+CL100517,Individual,Female,India,Delhi NCR,2000-02-11,Personal Use,No,Agent,2.6,8016000,1,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100518,Individual,Male,UK,Birmingham,2000-04-17,Personal Use,Yes,Online,4.0,6668000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100519,Individual,Male,India,Pune,1990-06-09,Personal Use,Yes,Referral,3.9,9162000,1,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100520,Corporate,Female,USA,Texas,1969-02-14,Investment,Yes,Online,4.5,37891000,1,57,1,2,C1: Affluent Global & Portfolio Investors
+CL100521,Individual,Male,USA,Texas,1991-11-28,Personal Use,Yes,Agent,4.2,6080000,1,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100522,Individual,Female,India,Delhi NCR,1996-05-11,Personal Use,Yes,Agent,4.8,4304000,1,30,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100523,Individual,Male,India,Hyderabad,1994-11-06,Personal Use,Yes,Agent,4.1,9090000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100524,Individual,Male,UAE,Abu Dhabi,1963-10-09,Business Use,Yes,Social Media,3.4,58357000,4,63,1,1,C1: Affluent Global & Portfolio Investors
+CL100525,Individual,Male,India,Mumbai,1966-10-27,Investment,Yes,Online,5.0,33575000,1,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100526,Corporate,Male,India,Hyderabad,1994-06-18,Personal Use,Yes,Agent,5.0,10400000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100527,Individual,Male,Singapore,East,1974-05-18,Investment,Yes,Referral,5.0,35466000,6,52,1,2,C1: Affluent Global & Portfolio Investors
+CL100528,Individual,Male,Singapore,Central,2000-04-01,Personal Use,No,Online,3.9,4188000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100529,Individual,Female,UK,London,2002-07-26,Personal Use,Yes,Social Media,4.1,1500000,2,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100530,Individual,Male,India,Delhi NCR,1999-01-25,Personal Use,Yes,Direct,4.0,8153000,1,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100531,Individual,Male,UK,London,1987-08-19,Personal Use,No,Referral,3.8,7682000,2,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100532,Individual,Male,UK,Birmingham,1962-11-06,Investment,Yes,Direct,4.8,36426000,6,64,1,2,C1: Affluent Global & Portfolio Investors
+CL100533,Corporate,Male,India,Hyderabad,1987-12-20,Personal Use,Yes,Agent,3.3,4293000,1,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100534,Individual,Male,UAE,Abu Dhabi,1988-11-16,Investment,No,Agent,4.0,21386000,4,38,1,2,C1: Affluent Global & Portfolio Investors
+CL100535,Individual,Female,India,Pune,1983-07-24,Personal Use,No,Online,4.7,72047000,5,43,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100536,Individual,Female,India,Bengaluru,1994-08-05,Business Use,Yes,Online,4.0,59566000,10,32,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100537,Corporate,Male,UAE,Sharjah,1978-02-25,Business Use,No,Online,4.0,105623000,11,48,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100538,Individual,Female,India,Delhi NCR,1964-11-17,Investment,No,Agent,5.0,28631000,2,62,1,2,C1: Affluent Global & Portfolio Investors
+CL100539,Individual,Male,India,Pune,1986-09-29,Investment,Yes,Agent,3.9,21430000,1,40,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100540,Individual,Male,USA,New York,1975-01-10,Business Use,Yes,Online,2.8,49909000,11,51,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100541,Individual,Female,Singapore,West,1983-12-23,Investment,Yes,Referral,4.9,32996000,4,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100542,Individual,Male,UAE,Sharjah,1990-08-01,Investment,No,Online,4.4,13373000,3,36,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100543,Individual,Female,USA,Florida,1982-10-22,Business Use,No,Agent,4.0,65539000,9,44,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100544,Individual,Male,Singapore,Central,1989-06-21,Personal Use,Yes,Online,4.9,8706000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100545,Individual,Male,India,Pune,1982-01-12,Investment,No,Referral,3.5,22486000,3,44,1,2,C1: Affluent Global & Portfolio Investors
+CL100546,Individual,Male,India,Hyderabad,1982-10-12,Investment,No,Agent,5.0,27905000,4,44,1,2,C1: Affluent Global & Portfolio Investors
+CL100547,Corporate,Male,India,Mumbai,1992-08-19,Personal Use,Yes,Referral,4.3,9486000,2,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100548,Corporate,Prefer not to say,India,Mumbai,1983-07-23,Business Use,Yes,Online,3.1,74930000,9,43,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100549,Individual,Male,UK,Manchester,1985-03-16,Investment,No,Agent,4.1,41875000,3,41,1,2,C1: Affluent Global & Portfolio Investors
+CL100550,Individual,Female,India,Mumbai,1981-01-07,Investment,No,Direct,4.8,16774000,1,45,1,2,C1: Affluent Global & Portfolio Investors
+CL100551,Individual,Female,India,Hyderabad,1978-11-28,Investment,No,Online,4.2,28360000,1,48,1,2,C1: Affluent Global & Portfolio Investors
+CL100552,Corporate,Male,India,Mumbai,1988-07-07,Personal Use,No,Agent,3.9,6717000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100553,Individual,Male,India,Pune,1993-04-02,Personal Use,Yes,Online,3.5,4263000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100554,Individual,Male,USA,Texas,2000-12-29,Personal Use,Yes,Online,3.6,5606000,1,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100555,Individual,Male,India,Bengaluru,1967-03-14,Investment,No,Agent,5.0,37578000,5,59,1,2,C1: Affluent Global & Portfolio Investors
+CL100556,Individual,Female,India,Pune,1993-10-05,Personal Use,Yes,Online,4.7,6122000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100557,Individual,Male,India,Hyderabad,1998-06-27,Personal Use,Yes,Agent,3.2,5381000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100558,Individual,Female,UAE,Abu Dhabi,1964-01-10,Investment,No,Direct,4.2,64483000,6,62,1,1,C1: Affluent Global & Portfolio Investors
+CL100559,Corporate,Female,UAE,Abu Dhabi,1982-05-16,Investment,Yes,Online,4.2,9373000,5,44,1,2,C1: Affluent Global & Portfolio Investors
+CL100560,Individual,Male,UAE,Abu Dhabi,1986-01-06,Investment,No,Online,5.0,54245000,5,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100561,Corporate,Female,India,Pune,1989-05-26,Personal Use,Yes,Social Media,3.4,2646000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100562,Individual,Male,India,Mumbai,1989-10-17,Personal Use,Yes,Agent,3.7,11541000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100563,Individual,Female,USA,Florida,1966-04-25,Investment,No,Online,4.7,55158000,5,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100564,Corporate,Male,UAE,Dubai,1997-05-22,Personal Use,Yes,Agent,4.0,7544000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100565,Individual,Prefer not to say,UAE,Sharjah,1989-09-10,Personal Use,Yes,Referral,3.1,5715000,2,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100566,Individual,Female,UK,Manchester,2000-12-04,Personal Use,No,Direct,4.7,6494000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100567,Individual,Female,UK,London,1992-05-10,Business Use,No,Online,4.3,87491000,5,34,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100568,Individual,Male,India,Bengaluru,1993-06-05,Personal Use,No,Social Media,3.2,4612000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100569,Individual,Female,India,Delhi NCR,1981-03-25,Investment,No,Referral,4.0,34120000,2,45,1,2,C1: Affluent Global & Portfolio Investors
+CL100570,Individual,Male,UAE,Abu Dhabi,1962-11-18,Business Use,Yes,Social Media,4.8,50862000,9,64,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100571,Individual,Female,India,Delhi NCR,1969-06-19,Business Use,No,Online,4.9,57340000,13,57,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100572,Individual,Male,USA,New York,2002-03-10,Personal Use,Yes,Agent,4.1,7294000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100573,Individual,Male,UAE,Abu Dhabi,1980-02-11,Investment,No,Online,4.0,21497000,1,46,1,2,C1: Affluent Global & Portfolio Investors
+CL100574,Individual,Male,UK,Birmingham,2001-01-24,Personal Use,Yes,Direct,4.2,4771000,1,25,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100575,Individual,Male,USA,New York,1961-10-16,Investment,Yes,Online,5.0,10682000,1,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100576,Individual,Male,UAE,Abu Dhabi,1997-10-30,Investment,No,Online,4.1,15076000,3,29,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100577,Corporate,Female,USA,Texas,1987-06-06,Personal Use,Yes,Direct,2.4,4466000,1,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100578,Individual,Male,UAE,Sharjah,1991-07-18,Investment,No,Agent,4.9,24117000,5,35,1,2,C1: Affluent Global & Portfolio Investors
+CL100579,Individual,Female,USA,Texas,2001-10-08,Personal Use,Yes,Referral,3.5,5117000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100580,Individual,Male,India,Mumbai,1973-11-25,Business Use,No,Online,4.7,59228000,7,53,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100581,Corporate,Female,UAE,Sharjah,1998-11-11,Personal Use,No,Referral,4.1,6780000,1,28,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100582,Individual,Female,UAE,Dubai,1965-08-31,Investment,No,Online,4.6,44214000,2,61,1,2,C1: Affluent Global & Portfolio Investors
+CL100583,Individual,Male,India,Pune,1960-04-07,Investment,No,Agent,5.0,36524000,2,66,1,2,C1: Affluent Global & Portfolio Investors
+CL100584,Individual,Female,India,Pune,2001-12-09,Personal Use,Yes,Agent,3.9,5236000,1,25,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100585,Individual,Female,USA,California,1961-11-24,Investment,Yes,Agent,5.0,36892000,2,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100586,Individual,Female,UAE,Abu Dhabi,1959-09-28,Investment,Yes,Online,4.6,59599000,5,67,1,2,C1: Affluent Global & Portfolio Investors
+CL100587,Corporate,Male,India,Delhi NCR,1994-02-18,Personal Use,Yes,Online,5.0,5608000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100588,Individual,Male,India,Delhi NCR,1988-01-06,Business Use,No,Referral,4.5,79408000,12,38,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100589,Individual,Female,India,Pune,1997-07-25,Investment,Yes,Online,4.2,20224000,5,29,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100590,Individual,Male,India,Mumbai,1990-12-17,Business Use,Yes,Online,3.5,53370000,14,36,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100591,Individual,Female,USA,Texas,2002-12-29,Personal Use,No,Agent,4.3,8708000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100592,Individual,Male,India,Delhi NCR,1966-02-23,Investment,Yes,Agent,4.2,24858000,3,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100593,Individual,Female,India,Hyderabad,2000-07-23,Personal Use,Yes,Referral,3.5,7744000,1,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100594,Individual,Male,UAE,Sharjah,1963-12-05,Investment,No,Agent,5.0,35881000,2,63,1,2,C1: Affluent Global & Portfolio Investors
+CL100595,Individual,Male,India,Delhi NCR,1993-03-03,Personal Use,Yes,Social Media,3.8,6385000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100596,Corporate,Prefer not to say,India,Delhi NCR,1976-06-22,Investment,No,Referral,4.9,26960000,5,50,1,2,C1: Affluent Global & Portfolio Investors
+CL100597,Individual,Female,UK,London,1974-08-28,Investment,Yes,Social Media,4.1,28200000,1,52,1,2,C1: Affluent Global & Portfolio Investors
+CL100598,Individual,Female,UAE,Abu Dhabi,1989-07-20,Personal Use,Yes,Referral,4.1,7794000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100599,Individual,Other,Singapore,East,1974-10-12,Personal Use,No,Online,4.4,32852000,4,52,1,2,C1: Affluent Global & Portfolio Investors
+CL100600,Individual,Male,UAE,Abu Dhabi,1961-01-26,Business Use,No,Direct,4.7,52100000,11,65,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100601,Individual,Male,India,Delhi NCR,1997-03-20,Personal Use,Yes,Social Media,4.9,6289000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100602,Individual,Male,UK,Birmingham,1976-10-21,Investment,No,Referral,4.2,19520000,4,50,1,2,C1: Affluent Global & Portfolio Investors
+CL100603,Individual,Male,USA,Florida,1973-04-08,Investment,No,Online,4.6,10638000,1,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100604,Corporate,Male,UK,Birmingham,2001-10-28,Personal Use,Yes,Online,3.8,4395000,1,25,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100605,Individual,Female,Singapore,West,1961-07-20,Investment,No,Referral,4.8,40133000,6,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100606,Individual,Male,UK,Manchester,1970-04-04,Business Use,No,Agent,3.9,43574000,8,56,0,2,C3: High-Volume Business & Multi-Unit Buyers
+CL100607,Individual,Male,USA,California,1987-12-20,Personal Use,Yes,Referral,2.1,5109000,1,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100608,Individual,Male,India,Mumbai,1990-04-13,Personal Use,Yes,Agent,3.7,4874000,1,36,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100609,Individual,Male,UK,Manchester,1992-10-11,Personal Use,Yes,Agent,5.0,7102000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100610,Corporate,Male,India,Pune,1994-04-22,Personal Use,Yes,Online,4.2,5734000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100611,Individual,Female,UAE,Abu Dhabi,2001-07-03,Personal Use,Yes,Online,3.4,3920000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100612,Corporate,Male,UAE,Abu Dhabi,1966-12-24,Business Use,No,Online,4.3,63921000,11,60,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100613,Individual,Female,Singapore,Central,1990-03-30,Personal Use,Yes,Social Media,4.5,6433000,2,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100614,Individual,Female,Singapore,West,1966-09-30,Investment,No,Referral,4.6,44431000,6,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100615,Individual,Female,India,Mumbai,1995-01-20,Personal Use,Yes,Direct,5.0,5294000,1,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100616,Individual,Female,UK,Manchester,1961-03-01,Investment,No,Social Media,5.0,33792000,1,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100617,Individual,Male,UK,Manchester,1965-10-23,Investment,No,Social Media,3.6,33212000,1,61,1,2,C1: Affluent Global & Portfolio Investors
+CL100618,Individual,Male,India,Bengaluru,2002-05-28,Personal Use,Yes,Agent,4.3,8844000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100619,Individual,Male,India,Mumbai,1993-08-22,Personal Use,Yes,Social Media,3.3,6357000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100620,Corporate,Prefer not to say,India,Delhi NCR,1993-05-27,Personal Use,Yes,Direct,3.5,9839000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100621,Individual,Female,UK,Manchester,1980-06-12,Business Use,No,Referral,2.8,74755000,11,46,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100622,Individual,Male,UAE,Dubai,1990-09-16,Personal Use,Yes,Online,3.9,7268000,1,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100623,Individual,Male,Singapore,East,1987-05-10,Business Use,No,Referral,3.4,37044000,6,39,0,2,C3: High-Volume Business & Multi-Unit Buyers
+CL100624,Individual,Female,India,Hyderabad,1974-09-30,Business Use,No,Online,4.3,26990000,5,52,1,1,C1: Affluent Global & Portfolio Investors
+CL100625,Corporate,Female,Singapore,East,1997-02-04,Personal Use,Yes,Online,4.3,8861000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100626,Individual,Male,India,Delhi NCR,1987-01-22,Personal Use,Yes,Referral,4.0,6010000,1,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100627,Individual,Female,USA,New York,1969-11-02,Investment,No,Social Media,4.4,31047000,3,57,1,1,C1: Affluent Global & Portfolio Investors
+CL100628,Individual,Female,India,Delhi NCR,1992-04-11,Personal Use,Yes,Online,4.1,2037000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100629,Individual,Female,UAE,Dubai,1983-01-28,Investment,Yes,Online,4.7,52898000,4,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100630,Individual,Male,USA,Florida,1966-11-17,Investment,No,Direct,4.3,39859000,2,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100631,Corporate,Male,USA,California,1996-04-07,Personal Use,Yes,Online,3.6,8114000,1,30,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100632,Individual,Prefer not to say,USA,Texas,1999-01-25,Personal Use,Yes,Online,3.5,6344000,1,27,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100633,Individual,Female,India,Mumbai,1962-10-12,Business Use,No,Referral,3.7,48276000,8,64,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100634,Individual,Male,India,Hyderabad,1983-06-04,Business Use,Yes,Social Media,3.8,46315000,15,43,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100635,Individual,Female,India,Hyderabad,1999-03-17,Personal Use,No,Agent,3.1,5211000,1,27,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100636,Corporate,Male,India,Pune,1966-09-03,Investment,No,Agent,4.3,44748000,5,60,1,1,C1: Affluent Global & Portfolio Investors
+CL100637,Individual,Female,UK,Birmingham,1958-10-08,Investment,No,Agent,3.3,21925000,5,68,1,2,C1: Affluent Global & Portfolio Investors
+CL100638,Individual,Male,UK,London,1982-08-11,Investment,Yes,Online,3.8,22529000,5,44,1,2,C1: Affluent Global & Portfolio Investors
+CL100639,Individual,Female,UK,London,1971-09-02,Investment,Yes,Social Media,4.2,1500000,3,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100640,Individual,Male,USA,New York,1997-04-12,Investment,No,Social Media,4.8,8363000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100641,Corporate,Male,UK,Manchester,1957-08-19,Investment,No,Agent,4.3,56035000,4,69,1,2,C1: Affluent Global & Portfolio Investors
+CL100642,Individual,Male,USA,Texas,1990-08-18,Personal Use,Yes,Online,3.4,6395000,1,36,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100643,Individual,Female,India,Bengaluru,1997-01-22,Personal Use,Yes,Online,3.9,2579000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100644,Individual,Male,India,Mumbai,2001-06-04,Personal Use,Yes,Online,4.1,7177000,1,25,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100645,Individual,Male,UAE,Dubai,1998-01-28,Personal Use,Yes,Online,3.7,6678000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100646,Individual,Female,USA,Florida,2001-04-17,Personal Use,No,Online,3.7,4519000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100647,Individual,Male,India,Delhi NCR,1957-02-12,Investment,Yes,Social Media,3.6,14862000,2,69,1,2,C1: Affluent Global & Portfolio Investors
+CL100648,Individual,Male,UAE,Sharjah,1977-10-22,Business Use,No,Online,4.7,75628000,15,49,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100649,Individual,Male,UK,London,1985-01-24,Investment,Yes,Referral,3.8,35792000,2,41,1,2,C1: Affluent Global & Portfolio Investors
+CL100650,Individual,Female,India,Delhi NCR,1983-01-23,Business Use,No,Referral,3.6,80733000,10,43,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100651,Individual,Male,India,Pune,1992-12-18,Investment,No,Social Media,4.4,7938000,4,34,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100652,Individual,Male,USA,New York,1989-08-24,Business Use,No,Direct,4.1,57104000,6,37,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100653,Individual,Male,UK,Birmingham,1961-08-04,Personal Use,No,Agent,4.1,36805000,4,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100654,Individual,Male,India,Bengaluru,1964-08-01,Investment,Yes,Online,3.8,22230000,1,62,1,2,C1: Affluent Global & Portfolio Investors
+CL100655,Individual,Male,USA,Florida,1968-03-23,Investment,No,Social Media,3.5,16870000,3,58,1,2,C1: Affluent Global & Portfolio Investors
+CL100656,Individual,Male,India,Mumbai,1970-04-23,Personal Use,No,Online,4.1,24430000,5,56,1,1,C1: Affluent Global & Portfolio Investors
+CL100657,Individual,Male,USA,Florida,1996-10-16,Personal Use,No,Online,3.7,7099000,1,30,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100658,Individual,Male,India,Hyderabad,1984-05-24,Business Use,No,Online,4.2,74170000,6,42,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100659,Individual,Female,UAE,Abu Dhabi,1959-01-12,Investment,Yes,Direct,4.7,34294000,4,67,1,2,C1: Affluent Global & Portfolio Investors
+CL100660,Individual,Male,India,Bengaluru,1998-07-26,Personal Use,No,Online,3.4,5950000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100661,Corporate,Male,India,Bengaluru,2000-01-29,Personal Use,No,Agent,3.2,6324000,2,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100662,Individual,Female,USA,Texas,1974-05-10,Personal Use,No,Agent,4.4,30631000,6,52,1,1,C1: Affluent Global & Portfolio Investors
+CL100663,Individual,Female,India,Bengaluru,1993-01-29,Personal Use,Yes,Referral,4.8,6909000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100664,Individual,Female,India,Hyderabad,1969-02-06,Business Use,Yes,Online,3.7,59982000,14,57,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100665,Individual,Male,India,Delhi NCR,1961-12-26,Business Use,Yes,Social Media,3.7,78210000,7,65,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100666,Individual,Male,UK,Manchester,1981-03-15,Investment,No,Referral,4.7,29513000,4,45,1,2,C1: Affluent Global & Portfolio Investors
+CL100667,Corporate,Male,USA,Florida,1990-10-25,Personal Use,Yes,Agent,2.8,5914000,1,36,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100668,Individual,Male,Singapore,West,1996-03-07,Investment,Yes,Agent,5.0,18090000,1,30,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100669,Individual,Male,India,Hyderabad,1990-03-14,Personal Use,No,Social Media,4.6,3930000,1,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100670,Individual,Female,India,Hyderabad,1972-09-29,Business Use,Yes,Social Media,5.0,79424000,9,54,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100671,Individual,Male,India,Mumbai,1995-12-09,Personal Use,Yes,Agent,3.2,9673000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100672,Corporate,Female,UAE,Abu Dhabi,1956-08-01,Investment,No,Agent,4.0,26085000,1,70,1,2,C1: Affluent Global & Portfolio Investors
+CL100673,Individual,Male,Singapore,Central,1995-09-14,Business Use,No,Online,4.4,91432000,13,31,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100674,Individual,Male,UK,Birmingham,1993-06-13,Personal Use,Yes,Online,3.3,5022000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100675,Individual,Female,UAE,Abu Dhabi,1987-12-04,Personal Use,Yes,Online,5.0,8636000,1,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100676,Individual,Female,India,Delhi NCR,1992-12-16,Personal Use,Yes,Online,3.6,2535000,1,34,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100677,Individual,Male,USA,New York,1993-07-26,Investment,No,Online,3.7,4680000,4,33,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100678,Individual,Female,UAE,Sharjah,1993-03-27,Business Use,No,Social Media,2.7,87437000,5,33,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100679,Individual,Male,India,Bengaluru,2000-09-09,Personal Use,Yes,Social Media,4.1,7784000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100680,Corporate,Male,India,Mumbai,1996-09-05,Personal Use,No,Social Media,4.7,5893000,1,30,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100681,Individual,Female,India,Mumbai,1978-11-04,Investment,No,Referral,3.5,26840000,2,48,1,2,C1: Affluent Global & Portfolio Investors
+CL100682,Individual,Male,India,Pune,1991-09-21,Personal Use,No,Referral,3.3,4120000,1,35,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100683,Individual,Male,India,Bengaluru,2002-09-15,Personal Use,Yes,Online,4.6,9000000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100684,Individual,Male,India,Bengaluru,1992-09-29,Personal Use,No,Referral,4.2,5873000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100685,Individual,Male,UAE,Abu Dhabi,1985-08-29,Investment,No,Online,4.8,30980000,3,41,1,2,C1: Affluent Global & Portfolio Investors
+CL100686,Individual,Male,India,Bengaluru,1960-09-20,Investment,No,Agent,4.6,46819000,6,66,1,2,C1: Affluent Global & Portfolio Investors
+CL100687,Individual,Male,India,Hyderabad,1987-04-29,Investment,No,Direct,4.1,28368000,2,39,1,2,C1: Affluent Global & Portfolio Investors
+CL100688,Individual,Other,Singapore,Central,1974-09-01,Business Use,No,Social Media,3.4,97662000,5,52,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100689,Individual,Female,UK,London,1997-04-01,Personal Use,Yes,Online,4.5,5745000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100690,Individual,Male,UAE,Abu Dhabi,1979-05-27,Investment,Yes,Referral,4.2,54168000,3,47,1,2,C1: Affluent Global & Portfolio Investors
+CL100691,Corporate,Male,India,Bengaluru,1959-05-14,Investment,Yes,Online,4.3,33487000,5,67,1,2,C1: Affluent Global & Portfolio Investors
+CL100692,Individual,Female,USA,Texas,2001-06-02,Personal Use,Yes,Online,3.7,3668000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100693,Individual,Male,India,Delhi NCR,2002-01-31,Personal Use,No,Online,4.1,5731000,2,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100694,Corporate,Male,India,Bengaluru,2000-09-30,Personal Use,Yes,Online,2.7,7653000,1,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100695,Corporate,Female,USA,Florida,1962-01-09,Business Use,Yes,Referral,4.7,74404000,11,64,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100696,Individual,Male,UAE,Sharjah,1987-10-19,Personal Use,Yes,Agent,3.0,6556000,1,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100697,Individual,Male,UK,London,1985-11-12,Investment,No,Online,3.8,29134000,1,41,1,2,C1: Affluent Global & Portfolio Investors
+CL100698,Individual,Male,UAE,Dubai,1987-03-07,Personal Use,Yes,Direct,2.9,6134000,2,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100699,Individual,Male,UAE,Dubai,1965-02-08,Investment,No,Agent,5.0,45671000,2,61,1,2,C1: Affluent Global & Portfolio Investors
+CL100700,Individual,Male,India,Bengaluru,1966-11-30,Personal Use,No,Agent,4.5,47144000,2,60,1,1,C1: Affluent Global & Portfolio Investors
+CL100701,Individual,Female,India,Bengaluru,1999-05-29,Personal Use,Yes,Agent,4.6,8222000,1,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100702,Individual,Male,India,Hyderabad,2002-06-29,Personal Use,Yes,Agent,3.4,7025000,1,24,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100703,Corporate,Female,India,Hyderabad,1973-10-13,Investment,No,Agent,3.3,30196000,3,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100704,Corporate,Female,USA,Texas,1959-06-26,Investment,No,Referral,4.5,54463000,2,67,1,2,C1: Affluent Global & Portfolio Investors
+CL100705,Individual,Male,India,Delhi NCR,1982-04-27,Business Use,No,Direct,5.0,63251000,4,44,1,2,C1: Affluent Global & Portfolio Investors
+CL100706,Individual,Male,UAE,Dubai,1990-06-07,Personal Use,Yes,Agent,4.4,5161000,1,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100707,Corporate,Male,USA,Florida,1975-06-27,Investment,No,Agent,4.6,39492000,2,51,1,2,C1: Affluent Global & Portfolio Investors
+CL100708,Corporate,Female,UK,Manchester,1988-02-13,Investment,Yes,Online,4.1,28110000,4,38,1,2,C1: Affluent Global & Portfolio Investors
+CL100709,Individual,Male,India,Pune,1980-10-11,Business Use,No,Social Media,3.8,22748000,9,46,0,2,C3: High-Volume Business & Multi-Unit Buyers
+CL100710,Individual,Female,India,Bengaluru,1968-05-19,Investment,Yes,Agent,4.1,20198000,5,58,1,2,C1: Affluent Global & Portfolio Investors
+CL100711,Individual,Female,Singapore,East,1960-09-08,Investment,Yes,Online,3.3,22632000,3,66,1,2,C1: Affluent Global & Portfolio Investors
+CL100712,Individual,Female,UK,Birmingham,1993-01-11,Personal Use,Yes,Direct,3.3,8428000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100713,Individual,Prefer not to say,USA,New York,1999-10-03,Personal Use,Yes,Referral,4.6,6548000,1,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100714,Individual,Female,USA,Florida,1977-02-17,Investment,No,Online,4.9,17685000,6,49,1,2,C1: Affluent Global & Portfolio Investors
+CL100715,Individual,Female,UK,Manchester,1991-05-17,Personal Use,Yes,Online,4.1,10138000,1,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100716,Corporate,Female,India,Mumbai,1958-10-16,Personal Use,No,Agent,4.8,58104000,6,68,1,1,C1: Affluent Global & Portfolio Investors
+CL100717,Individual,Female,UAE,Abu Dhabi,1990-04-01,Business Use,No,Direct,4.9,73404000,3,36,1,2,C1: Affluent Global & Portfolio Investors
+CL100718,Individual,Female,India,Delhi NCR,1982-10-06,Business Use,No,Agent,3.9,58626000,11,44,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100719,Individual,Prefer not to say,UAE,Dubai,1962-09-29,Investment,No,Online,4.2,35313000,3,64,1,2,C1: Affluent Global & Portfolio Investors
+CL100720,Individual,Male,Singapore,West,2002-08-30,Personal Use,Yes,Referral,3.1,5491000,1,24,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100721,Individual,Female,UAE,Abu Dhabi,1992-04-28,Personal Use,No,Agent,3.3,8341000,1,34,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100722,Individual,Male,India,Pune,1958-08-13,Investment,No,Online,4.1,31591000,3,68,1,2,C1: Affluent Global & Portfolio Investors
+CL100723,Individual,Female,India,Mumbai,1999-06-09,Personal Use,Yes,Social Media,3.9,7488000,2,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100724,Individual,Male,Singapore,East,1968-06-14,Investment,No,Online,5.0,73890000,6,58,1,1,C1: Affluent Global & Portfolio Investors
+CL100725,Corporate,Female,India,Mumbai,1997-10-22,Personal Use,Yes,Direct,3.5,7815000,1,29,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100726,Individual,Female,India,Pune,1991-10-10,Personal Use,Yes,Social Media,3.5,6476000,1,35,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100727,Corporate,Prefer not to say,India,Pune,1995-09-13,Investment,Yes,Online,4.1,33548000,1,31,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100728,Corporate,Male,India,Pune,1988-10-12,Personal Use,Yes,Referral,3.7,5804000,1,38,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100729,Corporate,Female,India,Mumbai,1971-02-01,Business Use,No,Social Media,3.9,46793000,15,55,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100730,Individual,Female,UAE,Sharjah,1995-08-16,Personal Use,No,Referral,2.7,8008000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100731,Individual,Female,India,Bengaluru,1962-08-08,Business Use,No,Referral,4.1,61320000,3,64,1,1,C1: Affluent Global & Portfolio Investors
+CL100732,Individual,Female,India,Mumbai,1975-05-02,Business Use,No,Online,4.1,60144000,11,51,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100733,Individual,Female,India,Delhi NCR,1968-03-20,Investment,No,Online,4.1,38651000,2,58,1,2,C1: Affluent Global & Portfolio Investors
+CL100734,Individual,Female,India,Hyderabad,1997-04-25,Personal Use,Yes,Referral,3.4,9404000,1,29,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100735,Corporate,Male,India,Delhi NCR,1965-06-14,Business Use,Yes,Online,4.5,15826000,3,61,1,2,C1: Affluent Global & Portfolio Investors
+CL100736,Individual,Prefer not to say,UK,London,1970-01-11,Investment,No,Online,4.1,45736000,2,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100737,Individual,Male,India,Mumbai,1992-02-08,Personal Use,Yes,Agent,3.8,6993000,2,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100738,Individual,Female,India,Mumbai,1974-10-21,Business Use,No,Online,4.0,59511000,11,52,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100739,Individual,Female,India,Mumbai,1966-11-05,Business Use,Yes,Social Media,4.7,30671000,4,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100740,Individual,Male,India,Mumbai,1956-08-11,Investment,No,Social Media,4.3,40323000,4,70,1,2,C1: Affluent Global & Portfolio Investors
+CL100741,Individual,Male,India,Mumbai,1973-03-03,Investment,No,Social Media,4.1,54261000,2,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100742,Individual,Male,India,Mumbai,1970-01-15,Investment,No,Online,4.0,21107000,5,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100743,Individual,Female,USA,Texas,2000-04-20,Personal Use,Yes,Agent,4.6,8044000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100744,Individual,Male,India,Mumbai,1986-04-26,Investment,No,Social Media,4.6,58232000,5,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100745,Individual,Male,UAE,Sharjah,1989-10-08,Personal Use,Yes,Agent,3.9,6752000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100746,Individual,Female,UAE,Abu Dhabi,1957-05-30,Investment,No,Referral,4.1,39590000,2,69,1,2,C1: Affluent Global & Portfolio Investors
+CL100747,Corporate,Male,India,Delhi NCR,1987-10-27,Personal Use,Yes,Referral,4.1,6643000,1,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100748,Individual,Female,India,Pune,1966-06-20,Investment,No,Agent,4.2,52121000,6,60,1,1,C1: Affluent Global & Portfolio Investors
+CL100749,Individual,Male,UK,Birmingham,1985-10-23,Business Use,No,Online,5.0,76289000,12,41,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100750,Individual,Male,USA,New York,1975-12-06,Business Use,No,Referral,3.7,26777000,11,51,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100751,Individual,Male,India,Delhi NCR,1958-01-14,Investment,Yes,Online,4.5,4217000,3,68,1,2,C1: Affluent Global & Portfolio Investors
+CL100752,Individual,Male,India,Bengaluru,1995-02-10,Business Use,No,Social Media,3.0,43955000,7,31,0,2,C3: High-Volume Business & Multi-Unit Buyers
+CL100753,Individual,Male,India,Hyderabad,1974-04-27,Investment,No,Referral,4.6,44160000,3,52,1,2,C1: Affluent Global & Portfolio Investors
+CL100754,Corporate,Female,India,Delhi NCR,1978-05-19,Personal Use,No,Online,4.5,51120000,4,48,1,2,C1: Affluent Global & Portfolio Investors
+CL100755,Individual,Male,UK,London,1969-10-06,Investment,No,Referral,3.5,27159000,4,57,1,2,C1: Affluent Global & Portfolio Investors
+CL100756,Individual,Male,India,Pune,1996-06-07,Investment,No,Agent,4.3,33848000,3,30,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100757,Individual,Male,India,Delhi NCR,1980-04-03,Investment,No,Online,4.4,32660000,6,46,1,2,C1: Affluent Global & Portfolio Investors
+CL100758,Individual,Male,USA,Florida,1997-06-19,Investment,No,Direct,3.6,20867000,5,29,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100759,Individual,Female,India,Delhi NCR,1989-09-21,Personal Use,Yes,Referral,3.3,3247000,2,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100760,Individual,Male,India,Pune,1970-08-12,Business Use,No,Referral,4.5,16388000,9,56,1,1,C1: Affluent Global & Portfolio Investors
+CL100761,Individual,Prefer not to say,UK,London,1991-03-02,Investment,No,Social Media,3.5,10626000,4,35,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100762,Individual,Male,India,Pune,1986-10-02,Investment,No,Referral,4.1,27190000,1,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100763,Individual,Male,India,Hyderabad,1989-01-16,Personal Use,Yes,Agent,4.3,9042000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100764,Individual,Male,India,Bengaluru,1961-04-01,Investment,No,Online,4.6,22928000,4,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100765,Individual,Male,USA,New York,1973-02-11,Investment,Yes,Online,4.6,22132000,4,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100766,Individual,Female,India,Mumbai,1991-07-01,Investment,Yes,Agent,3.0,24085000,1,35,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100767,Individual,Male,India,Delhi NCR,2000-10-12,Personal Use,No,Agent,3.8,5641000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100768,Individual,Male,India,Bengaluru,1989-12-20,Personal Use,Yes,Referral,4.0,7729000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100769,Individual,Female,India,Pune,1980-06-20,Investment,No,Agent,4.2,26289000,5,46,1,1,C1: Affluent Global & Portfolio Investors
+CL100770,Corporate,Female,UAE,Abu Dhabi,1984-08-09,Business Use,No,Referral,3.5,85138000,3,42,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100771,Individual,Female,India,Delhi NCR,1960-11-21,Business Use,Yes,Online,4.3,71036000,10,66,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100772,Individual,Prefer not to say,UAE,Sharjah,1981-01-28,Investment,Yes,Direct,5.0,17748000,3,45,1,2,C1: Affluent Global & Portfolio Investors
+CL100773,Individual,Female,UAE,Abu Dhabi,1990-01-13,Personal Use,Yes,Agent,3.5,3129000,1,36,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100774,Corporate,Female,USA,Texas,1979-08-19,Investment,No,Direct,4.7,63794000,2,47,1,2,C1: Affluent Global & Portfolio Investors
+CL100775,Individual,Female,India,Pune,1987-05-04,Personal Use,Yes,Social Media,3.7,6455000,1,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100776,Individual,Male,USA,California,1989-08-04,Personal Use,Yes,Online,5.0,6493000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100777,Individual,Female,UAE,Abu Dhabi,1990-07-05,Personal Use,Yes,Agent,2.6,2833000,1,36,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100778,Corporate,Male,India,Bengaluru,1971-05-20,Investment,Yes,Online,4.3,16251000,2,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100779,Individual,Female,UK,London,1975-08-04,Investment,No,Referral,4.3,47268000,5,51,1,2,C1: Affluent Global & Portfolio Investors
+CL100780,Corporate,Prefer not to say,USA,New York,1981-03-15,Investment,Yes,Referral,3.8,49209000,6,45,1,1,C1: Affluent Global & Portfolio Investors
+CL100781,Individual,Male,India,Bengaluru,1975-10-25,Investment,No,Agent,4.5,11676000,5,51,1,2,C1: Affluent Global & Portfolio Investors
+CL100782,Corporate,Female,USA,New York,1982-05-04,Investment,No,Social Media,4.1,20177000,5,44,1,1,C1: Affluent Global & Portfolio Investors
+CL100783,Individual,Female,India,Delhi NCR,2001-01-08,Personal Use,Yes,Agent,2.8,8413000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100784,Individual,Male,UAE,Dubai,1959-02-26,Investment,No,Agent,4.8,27953000,1,67,1,2,C1: Affluent Global & Portfolio Investors
+CL100785,Individual,Male,Singapore,East,1997-12-16,Personal Use,Yes,Social Media,3.1,4823000,1,29,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100786,Individual,Female,India,Pune,2000-11-21,Personal Use,Yes,Direct,3.5,6602000,1,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100787,Individual,Prefer not to say,USA,Florida,1986-05-18,Business Use,No,Social Media,3.8,29705000,7,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100788,Individual,Male,India,Mumbai,1963-01-30,Investment,No,Online,5.0,37300000,2,63,1,2,C1: Affluent Global & Portfolio Investors
+CL100789,Individual,Male,USA,New York,1976-02-28,Investment,Yes,Online,4.1,47500000,2,50,1,1,C1: Affluent Global & Portfolio Investors
+CL100790,Individual,Female,UAE,Sharjah,1971-02-07,Investment,Yes,Online,3.7,24857000,2,55,1,2,C1: Affluent Global & Portfolio Investors
+CL100791,Individual,Male,India,Hyderabad,1957-11-08,Investment,No,Agent,4.7,20329000,4,69,1,2,C1: Affluent Global & Portfolio Investors
+CL100792,Corporate,Male,India,Delhi NCR,1964-06-26,Investment,No,Online,5.0,50716000,4,62,1,2,C1: Affluent Global & Portfolio Investors
+CL100793,Individual,Male,India,Delhi NCR,1964-04-12,Business Use,No,Direct,3.6,43414000,6,62,1,1,C1: Affluent Global & Portfolio Investors
+CL100794,Individual,Male,India,Hyderabad,1994-05-19,Personal Use,Yes,Referral,4.0,7814000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100795,Individual,Male,India,Delhi NCR,1993-03-24,Personal Use,Yes,Agent,5.0,7873000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100796,Corporate,Female,India,Hyderabad,1967-10-17,Investment,No,Online,4.3,31938000,4,59,1,2,C1: Affluent Global & Portfolio Investors
+CL100797,Individual,Female,India,Bengaluru,1975-07-20,Investment,Yes,Agent,3.7,17230000,2,51,1,2,C1: Affluent Global & Portfolio Investors
+CL100798,Individual,Female,India,Pune,1992-07-22,Personal Use,Yes,Agent,4.1,6211000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100799,Corporate,Male,UK,Birmingham,1993-01-23,Personal Use,No,Referral,4.2,5600000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100800,Corporate,Male,UK,London,1969-10-20,Business Use,No,Online,3.3,55442000,14,57,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100801,Individual,Male,UK,Birmingham,1996-09-04,Investment,No,Social Media,4.9,18354000,4,30,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100802,Individual,Male,India,Pune,1969-12-24,Business Use,Yes,Online,5.0,70621000,11,57,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100803,Individual,Male,USA,Florida,1992-11-07,Business Use,No,Online,4.0,36276000,12,34,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100804,Individual,Male,UAE,Dubai,1955-01-09,Investment,No,Direct,4.3,17864000,4,71,1,2,C1: Affluent Global & Portfolio Investors
+CL100805,Individual,Male,India,Bengaluru,1996-02-27,Investment,Yes,Online,4.8,29798000,1,30,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100806,Individual,Male,India,Delhi NCR,1990-09-30,Personal Use,Yes,Online,3.8,5463000,1,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100807,Individual,Female,UK,Birmingham,1989-04-20,Business Use,No,Referral,5.0,118525000,12,37,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100808,Individual,Female,India,Pune,1976-05-30,Business Use,No,Online,3.1,80462000,14,50,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100809,Individual,Female,UAE,Abu Dhabi,1995-02-06,Business Use,No,Online,3.9,42725000,5,31,1,2,C1: Affluent Global & Portfolio Investors
+CL100810,Individual,Female,Singapore,Central,1994-09-15,Personal Use,Yes,Online,4.6,8390000,2,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100811,Corporate,Male,India,Pune,1997-01-04,Investment,No,Online,3.8,20629000,5,29,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100812,Individual,Male,India,Bengaluru,1991-08-20,Personal Use,Yes,Agent,3.9,6242000,1,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100813,Individual,Male,Singapore,East,1968-04-15,Investment,Yes,Online,5.0,21613000,5,58,1,2,C1: Affluent Global & Portfolio Investors
+CL100814,Individual,Male,UAE,Sharjah,1966-08-10,Business Use,No,Social Media,3.6,15030000,9,60,1,1,C1: Affluent Global & Portfolio Investors
+CL100815,Individual,Male,India,Mumbai,1991-05-02,Investment,Yes,Social Media,4.0,13122000,5,35,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100816,Individual,Male,USA,Texas,1989-09-01,Personal Use,No,Online,3.9,5049000,1,37,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100817,Individual,Male,USA,New York,1997-02-28,Personal Use,Yes,Agent,3.9,5346000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100818,Corporate,Male,UAE,Abu Dhabi,2001-05-14,Personal Use,Yes,Online,2.9,7010000,2,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100819,Corporate,Female,UAE,Sharjah,1997-09-18,Personal Use,Yes,Online,3.2,8380000,1,29,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100820,Corporate,Female,India,Mumbai,1990-01-17,Personal Use,Yes,Online,4.5,7425000,1,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100821,Corporate,Female,India,Delhi NCR,1974-04-19,Personal Use,Yes,Social Media,4.5,49240000,4,52,1,2,C1: Affluent Global & Portfolio Investors
+CL100822,Corporate,Female,UAE,Dubai,1987-07-30,Investment,No,Agent,4.7,33891000,5,39,1,2,C1: Affluent Global & Portfolio Investors
+CL100823,Individual,Male,India,Delhi NCR,1975-11-14,Investment,No,Agent,4.9,16695000,2,51,1,2,C1: Affluent Global & Portfolio Investors
+CL100824,Corporate,Male,UK,Birmingham,1960-01-12,Business Use,Yes,Referral,3.7,94709000,8,66,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100825,Individual,Female,USA,California,1974-04-02,Business Use,No,Social Media,4.2,60350000,6,52,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100826,Individual,Male,India,Delhi NCR,1992-05-03,Personal Use,Yes,Agent,5.0,9915000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100827,Individual,Male,UAE,Abu Dhabi,1994-03-04,Personal Use,Yes,Online,3.5,2305000,1,32,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100828,Individual,Male,India,Bengaluru,1991-05-26,Personal Use,No,Direct,4.7,3128000,1,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100829,Individual,Female,USA,California,1995-10-10,Personal Use,Yes,Agent,4.1,7189000,1,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100830,Individual,Female,India,Pune,1980-10-07,Investment,No,Referral,3.8,28403000,2,46,1,2,C1: Affluent Global & Portfolio Investors
+CL100831,Individual,Male,UAE,Sharjah,1960-12-04,Investment,Yes,Referral,3.7,18893000,4,66,1,2,C1: Affluent Global & Portfolio Investors
+CL100832,Individual,Female,UAE,Dubai,1983-12-11,Investment,No,Agent,4.2,36846000,2,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100833,Corporate,Male,India,Delhi NCR,1983-04-12,Investment,Yes,Online,3.5,7715000,2,43,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100834,Individual,Male,UK,London,1998-02-26,Personal Use,Yes,Online,4.8,8106000,1,28,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100835,Individual,Male,UK,Manchester,1977-11-03,Business Use,Yes,Agent,3.8,60344000,11,49,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100836,Individual,Male,UAE,Abu Dhabi,1968-06-06,Investment,No,Agent,4.6,42127000,3,58,1,2,C1: Affluent Global & Portfolio Investors
+CL100837,Individual,Female,UK,Manchester,1984-11-17,Investment,No,Social Media,5.0,55975000,3,42,1,2,C1: Affluent Global & Portfolio Investors
+CL100838,Individual,Male,Singapore,West,1966-08-04,Investment,No,Referral,4.7,25935000,1,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100839,Corporate,Female,India,Pune,1968-03-19,Investment,No,Direct,4.5,34673000,6,58,1,1,C1: Affluent Global & Portfolio Investors
+CL100840,Individual,Male,UAE,Dubai,1976-03-11,Business Use,No,Direct,4.1,49767000,13,50,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100841,Individual,Female,India,Bengaluru,1974-01-21,Investment,Yes,Referral,4.1,18441000,4,52,1,2,C1: Affluent Global & Portfolio Investors
+CL100842,Individual,Female,USA,New York,1984-09-10,Investment,No,Online,3.4,21422000,1,42,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100843,Individual,Female,UAE,Sharjah,1998-01-21,Personal Use,No,Agent,4.3,6913000,1,28,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100844,Corporate,Female,India,Mumbai,1989-03-21,Personal Use,Yes,Referral,3.6,6398000,2,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100845,Individual,Other,India,Delhi NCR,1978-09-01,Investment,No,Referral,3.6,13341000,2,48,1,2,C1: Affluent Global & Portfolio Investors
+CL100846,Corporate,Male,USA,Florida,1967-09-05,Investment,Yes,Online,4.0,45447000,5,59,1,2,C1: Affluent Global & Portfolio Investors
+CL100847,Individual,Female,India,Delhi NCR,1968-11-23,Investment,No,Referral,3.3,28458000,3,58,1,2,C1: Affluent Global & Portfolio Investors
+CL100848,Individual,Female,UK,London,1963-01-31,Investment,Yes,Agent,3.9,17448000,4,63,1,2,C1: Affluent Global & Portfolio Investors
+CL100849,Individual,Male,India,Hyderabad,1955-10-20,Investment,Yes,Agent,3.6,28034000,5,71,1,2,C1: Affluent Global & Portfolio Investors
+CL100850,Corporate,Male,Singapore,East,1985-09-26,Personal Use,No,Social Media,4.6,48832000,3,41,1,2,C1: Affluent Global & Portfolio Investors
+CL100851,Corporate,Male,India,Bengaluru,1983-08-05,Investment,No,Agent,3.9,32804000,1,43,1,2,C1: Affluent Global & Portfolio Investors
+CL100852,Individual,Male,India,Delhi NCR,2000-11-12,Personal Use,No,Agent,4.5,6275000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100853,Individual,Male,USA,New York,1995-03-14,Personal Use,No,Referral,3.9,8104000,2,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100854,Individual,Male,USA,Texas,1957-04-22,Investment,Yes,Online,3.7,37621000,2,69,1,2,C1: Affluent Global & Portfolio Investors
+CL100855,Individual,Female,India,Bengaluru,1980-11-05,Personal Use,No,Online,4.0,61320000,2,46,1,1,C1: Affluent Global & Portfolio Investors
+CL100856,Corporate,Male,India,Hyderabad,1999-11-04,Personal Use,No,Referral,3.4,7080000,1,27,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100857,Individual,Female,UK,London,1997-12-24,Personal Use,Yes,Agent,5.0,7138000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100858,Individual,Male,USA,New York,1994-01-21,Personal Use,Yes,Referral,2.3,7420000,1,32,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100859,Individual,Female,India,Mumbai,1994-07-27,Personal Use,Yes,Online,4.2,8365000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100860,Individual,Male,UAE,Abu Dhabi,1961-05-07,Investment,No,Direct,4.3,10849000,2,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100861,Corporate,Male,UK,Manchester,1976-11-08,Investment,No,Social Media,3.2,19321000,4,50,1,2,C1: Affluent Global & Portfolio Investors
+CL100862,Individual,Male,UK,Manchester,1976-10-09,Investment,No,Agent,4.6,28385000,2,50,1,2,C1: Affluent Global & Portfolio Investors
+CL100863,Individual,Female,UK,Birmingham,1988-06-18,Personal Use,Yes,Agent,3.2,6284000,1,38,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100864,Individual,Male,UAE,Sharjah,1967-10-18,Investment,No,Agent,4.1,41864000,5,59,1,1,C1: Affluent Global & Portfolio Investors
+CL100865,Individual,Other,India,Mumbai,1978-05-24,Investment,No,Referral,5.0,39755000,5,48,1,2,C1: Affluent Global & Portfolio Investors
+CL100866,Individual,Male,USA,California,1997-01-29,Personal Use,No,Referral,3.6,6219000,1,29,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100867,Corporate,Male,USA,California,1979-09-13,Business Use,No,Referral,3.7,76816000,3,47,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100868,Individual,Male,USA,California,1992-05-25,Personal Use,Yes,Direct,3.3,3329000,2,34,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100869,Individual,Female,India,Hyderabad,1993-02-01,Personal Use,Yes,Agent,4.0,5867000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100870,Individual,Male,India,Pune,1994-02-10,Personal Use,Yes,Referral,4.1,4977000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100871,Individual,Male,UK,London,1999-12-31,Personal Use,Yes,Agent,3.1,10956000,1,27,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100872,Individual,Male,India,Mumbai,2001-11-22,Personal Use,Yes,Referral,2.6,5300000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100873,Individual,Male,Singapore,East,1988-01-08,Personal Use,Yes,Agent,4.0,6632000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100874,Individual,Male,India,Mumbai,1989-01-29,Personal Use,No,Social Media,4.1,6728000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100875,Individual,Prefer not to say,UK,London,1961-09-06,Investment,No,Online,4.0,45956000,6,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100876,Individual,Male,USA,Florida,1957-06-26,Investment,Yes,Online,3.8,17611000,4,69,1,2,C1: Affluent Global & Portfolio Investors
+CL100877,Individual,Male,India,Hyderabad,1988-06-06,Personal Use,Yes,Online,4.9,7229000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100878,Individual,Other,India,Bengaluru,1973-05-03,Investment,No,Direct,4.1,15544000,4,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100879,Individual,Male,UAE,Sharjah,2001-04-03,Personal Use,Yes,Agent,5.0,2359000,2,25,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100880,Individual,Male,UAE,Sharjah,1962-08-19,Business Use,No,Agent,3.5,43290000,7,64,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100881,Individual,Female,India,Hyderabad,1994-02-12,Investment,No,Agent,3.7,13948000,1,32,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100882,Corporate,Female,UAE,Sharjah,1996-12-11,Personal Use,Yes,Agent,2.3,7559000,2,30,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100883,Individual,Prefer not to say,USA,Florida,1987-12-22,Personal Use,No,Social Media,3.8,8692000,2,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100884,Individual,Male,India,Hyderabad,1958-01-18,Investment,No,Direct,4.5,32752000,1,68,1,2,C1: Affluent Global & Portfolio Investors
+CL100885,Individual,Prefer not to say,India,Mumbai,1968-10-29,Investment,No,Social Media,4.9,38528000,6,58,1,2,C1: Affluent Global & Portfolio Investors
+CL100886,Individual,Male,India,Mumbai,1998-01-04,Personal Use,Yes,Social Media,4.3,6420000,1,28,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100887,Individual,Prefer not to say,India,Hyderabad,1963-09-20,Personal Use,Yes,Online,4.6,49184000,5,63,1,1,C1: Affluent Global & Portfolio Investors
+CL100888,Individual,Female,India,Bengaluru,1993-08-21,Personal Use,Yes,Online,3.3,6506000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100889,Individual,Prefer not to say,India,Hyderabad,1961-12-22,Investment,No,Referral,3.9,25913000,6,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100890,Individual,Male,UK,London,1995-01-23,Personal Use,Yes,Referral,3.7,8029000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100891,Corporate,Male,India,Mumbai,2001-08-23,Personal Use,Yes,Online,4.4,5702000,1,25,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100892,Individual,Female,Singapore,East,1961-11-01,Business Use,No,Social Media,3.5,49567000,4,65,1,1,C1: Affluent Global & Portfolio Investors
+CL100893,Corporate,Prefer not to say,India,Bengaluru,1991-07-10,Personal Use,No,Online,3.6,3884000,1,35,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100894,Corporate,Male,India,Bengaluru,1987-11-07,Personal Use,Yes,Online,4.2,9420000,1,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100895,Corporate,Female,UK,London,1972-03-19,Investment,No,Agent,4.5,22809000,6,54,1,2,C1: Affluent Global & Portfolio Investors
+CL100896,Individual,Female,USA,Florida,1999-12-07,Personal Use,No,Social Media,4.6,9335000,1,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100897,Individual,Male,India,Bengaluru,1981-07-03,Business Use,No,Referral,4.2,92736000,11,45,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100898,Individual,Male,India,Pune,1977-08-12,Business Use,No,Agent,4.7,94134000,7,49,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100899,Individual,Male,India,Mumbai,1976-12-19,Investment,No,Social Media,4.2,19145000,3,50,1,2,C1: Affluent Global & Portfolio Investors
+CL100900,Corporate,Male,UAE,Sharjah,1964-12-13,Investment,No,Social Media,4.6,21802000,4,62,1,2,C1: Affluent Global & Portfolio Investors
+CL100901,Individual,Male,India,Delhi NCR,1992-06-26,Personal Use,Yes,Agent,3.2,6386000,1,34,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100902,Individual,Female,India,Bengaluru,1987-08-11,Personal Use,Yes,Social Media,4.7,4193000,1,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100903,Individual,Female,India,Delhi NCR,1961-11-15,Investment,Yes,Online,4.0,25847000,5,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100904,Individual,Male,UAE,Dubai,1988-11-12,Business Use,No,Agent,4.4,99232000,14,38,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100905,Individual,Male,Singapore,Central,1959-03-15,Investment,No,Online,3.7,36123000,4,67,1,2,C1: Affluent Global & Portfolio Investors
+CL100906,Individual,Female,UAE,Dubai,2002-04-11,Personal Use,Yes,Agent,2.1,5530000,1,24,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100907,Corporate,Female,UAE,Dubai,1955-05-26,Investment,No,Agent,4.1,19054000,3,71,1,2,C1: Affluent Global & Portfolio Investors
+CL100908,Individual,Female,India,Hyderabad,1998-03-04,Personal Use,Yes,Online,3.2,6620000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100909,Individual,Male,India,Hyderabad,1996-12-07,Personal Use,Yes,Agent,4.5,9163000,1,30,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100910,Individual,Female,India,Pune,1967-04-26,Investment,No,Referral,4.9,40199000,6,59,1,1,C1: Affluent Global & Portfolio Investors
+CL100911,Corporate,Male,UK,Manchester,1989-04-02,Investment,No,Referral,4.2,12317000,5,37,1,2,C1: Affluent Global & Portfolio Investors
+CL100912,Individual,Male,USA,Texas,1982-10-21,Business Use,No,Online,2.9,52080000,12,44,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100913,Individual,Female,USA,Florida,1984-06-20,Business Use,Yes,Online,3.6,42359000,9,42,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100914,Individual,Male,Singapore,Central,1973-03-28,Investment,No,Agent,4.1,34196000,3,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100915,Corporate,Male,Singapore,East,1955-05-27,Investment,No,Social Media,3.7,19694000,2,71,1,1,C1: Affluent Global & Portfolio Investors
+CL100916,Individual,Prefer not to say,Singapore,West,1965-10-02,Personal Use,Yes,Social Media,4.7,33050000,4,61,1,1,C1: Affluent Global & Portfolio Investors
+CL100917,Individual,Male,India,Delhi NCR,1995-05-05,Personal Use,Yes,Agent,3.5,6640000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100918,Corporate,Male,India,Bengaluru,1974-03-31,Business Use,No,Referral,4.5,77472000,12,52,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100919,Individual,Female,India,Bengaluru,1979-12-30,Investment,No,Referral,5.0,20158000,2,47,1,2,C1: Affluent Global & Portfolio Investors
+CL100920,Individual,Male,UAE,Dubai,1998-06-09,Personal Use,No,Direct,3.6,8439000,2,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100921,Individual,Male,India,Hyderabad,1980-07-01,Business Use,No,Online,4.2,44647000,13,46,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100922,Individual,Female,USA,New York,1993-08-21,Personal Use,Yes,Referral,4.9,6875000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100923,Individual,Male,UAE,Sharjah,1993-12-16,Personal Use,Yes,Referral,3.9,7177000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100924,Individual,Female,UAE,Abu Dhabi,2002-12-03,Personal Use,Yes,Agent,2.3,8496000,1,24,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100925,Individual,Male,India,Mumbai,1998-04-04,Personal Use,No,Online,2.9,4500000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100926,Individual,Male,India,Delhi NCR,1969-03-05,Investment,No,Online,4.3,29591000,5,57,1,2,C1: Affluent Global & Portfolio Investors
+CL100927,Individual,Male,India,Hyderabad,1991-08-02,Personal Use,No,Agent,4.5,5577000,1,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100928,Individual,Female,USA,New York,1957-01-24,Investment,No,Referral,3.8,6841000,1,69,1,2,C1: Affluent Global & Portfolio Investors
+CL100929,Individual,Male,UAE,Abu Dhabi,1986-01-29,Investment,Yes,Referral,4.5,54324000,6,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100930,Corporate,Female,UK,Birmingham,1970-05-04,Investment,No,Online,4.2,42288000,6,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100931,Individual,Male,India,Delhi NCR,1993-06-03,Personal Use,Yes,Social Media,4.3,8253000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100932,Individual,Female,India,Pune,1978-01-15,Investment,Yes,Agent,4.1,22259000,1,48,1,2,C1: Affluent Global & Portfolio Investors
+CL100933,Individual,Male,India,Bengaluru,1963-05-25,Investment,Yes,Direct,3.6,21591000,1,63,1,2,C1: Affluent Global & Portfolio Investors
+CL100934,Individual,Male,UK,Birmingham,1989-01-26,Personal Use,Yes,Online,4.1,7125000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100935,Individual,Male,UK,London,1961-01-09,Investment,Yes,Social Media,4.8,23320000,2,65,1,2,C1: Affluent Global & Portfolio Investors
+CL100936,Individual,Male,India,Bengaluru,1991-10-23,Personal Use,Yes,Direct,4.1,8300000,2,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100937,Individual,Male,Singapore,East,1979-05-06,Investment,No,Social Media,4.5,21119000,2,47,1,2,C1: Affluent Global & Portfolio Investors
+CL100938,Individual,Female,India,Hyderabad,1970-04-11,Investment,No,Social Media,4.7,13716000,5,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100939,Individual,Male,USA,Florida,1970-03-09,Investment,No,Agent,4.5,19938000,1,56,1,2,C1: Affluent Global & Portfolio Investors
+CL100940,Individual,Male,India,Pune,1961-08-27,Investment,No,Referral,4.1,37614000,5,65,1,1,C1: Affluent Global & Portfolio Investors
+CL100941,Individual,Male,India,Mumbai,1992-02-22,Business Use,No,Referral,4.2,83079000,15,34,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100942,Corporate,Male,USA,Texas,1992-07-08,Personal Use,Yes,Agent,4.0,6464000,2,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100943,Individual,Male,India,Hyderabad,1994-08-14,Personal Use,Yes,Direct,4.2,4527000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100944,Individual,Female,India,Delhi NCR,1969-11-05,Investment,No,Online,4.4,41178000,4,57,1,2,C1: Affluent Global & Portfolio Investors
+CL100945,Individual,Male,India,Mumbai,1993-09-06,Personal Use,Yes,Agent,4.4,8567000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100946,Individual,Female,India,Delhi NCR,1957-01-11,Investment,No,Direct,4.4,44932000,5,69,1,2,C1: Affluent Global & Portfolio Investors
+CL100947,Individual,Male,UK,Manchester,1966-04-16,Investment,No,Online,5.0,42686000,5,60,1,2,C1: Affluent Global & Portfolio Investors
+CL100948,Individual,Male,USA,New York,2000-04-11,Personal Use,Yes,Online,4.4,6970000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100949,Individual,Female,USA,New York,1970-02-10,Investment,No,Agent,4.0,41649000,6,56,1,1,C1: Affluent Global & Portfolio Investors
+CL100950,Individual,Male,India,Delhi NCR,2000-09-26,Personal Use,Yes,Social Media,4.0,3432000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100951,Individual,Male,UAE,Dubai,1981-05-05,Business Use,No,Social Media,5.0,41809000,12,45,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100952,Individual,Other,India,Pune,1975-08-20,Investment,Yes,Online,4.0,16888000,2,51,1,2,C1: Affluent Global & Portfolio Investors
+CL100953,Corporate,Other,India,Hyderabad,1994-02-27,Personal Use,No,Referral,3.9,7039000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100954,Individual,Female,India,Delhi NCR,1986-08-01,Investment,Yes,Referral,4.7,12929000,4,40,1,2,C1: Affluent Global & Portfolio Investors
+CL100955,Corporate,Male,Singapore,West,1973-02-23,Investment,No,Referral,4.2,26518000,5,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100956,Individual,Female,USA,Texas,1956-04-04,Investment,No,Referral,5.0,13533000,3,70,1,2,C1: Affluent Global & Portfolio Investors
+CL100957,Corporate,Prefer not to say,UK,London,2002-03-27,Personal Use,Yes,Direct,3.4,1916000,1,24,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100958,Individual,Other,UAE,Sharjah,1991-01-30,Personal Use,Yes,Agent,4.7,6817000,1,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100959,Individual,Male,UAE,Dubai,1987-03-20,Personal Use,No,Online,3.9,5830000,1,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100960,Individual,Male,UAE,Abu Dhabi,1998-09-07,Personal Use,No,Referral,4.2,3544000,1,28,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100961,Individual,Male,UAE,Sharjah,1966-06-26,Investment,No,Agent,4.4,53587000,6,60,1,1,C1: Affluent Global & Portfolio Investors
+CL100962,Corporate,Male,India,Delhi NCR,1964-07-13,Investment,No,Agent,5.0,22764000,5,62,1,2,C1: Affluent Global & Portfolio Investors
+CL100963,Individual,Female,India,Hyderabad,1969-12-09,Investment,No,Online,2.8,14450000,4,57,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100964,Individual,Male,India,Pune,1999-05-31,Personal Use,Yes,Online,3.6,5873000,1,27,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100965,Individual,Male,Singapore,Central,1981-07-26,Business Use,No,Direct,3.8,65853000,10,45,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100966,Corporate,Male,UAE,Sharjah,1967-08-12,Business Use,No,Online,4.6,83458000,11,59,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100967,Individual,Male,Singapore,East,1991-11-23,Personal Use,Yes,Referral,4.6,5257000,1,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100968,Individual,Male,India,Bengaluru,1988-07-01,Business Use,No,Social Media,4.5,86988000,8,38,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100969,Corporate,Male,UAE,Abu Dhabi,1963-06-05,Investment,Yes,Online,3.8,14907000,2,63,1,2,C1: Affluent Global & Portfolio Investors
+CL100970,Corporate,Male,India,Hyderabad,1995-11-25,Personal Use,No,Online,4.4,6375000,1,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100971,Individual,Other,India,Pune,1969-05-15,Business Use,No,Agent,4.2,86503000,6,57,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100972,Individual,Male,India,Bengaluru,1968-11-01,Business Use,No,Agent,4.7,63131000,7,58,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100973,Corporate,Male,India,Bengaluru,1959-11-11,Investment,No,Agent,4.5,29536000,5,67,1,2,C1: Affluent Global & Portfolio Investors
+CL100974,Individual,Male,USA,California,1976-08-08,Investment,No,Referral,3.7,27067000,2,50,1,2,C1: Affluent Global & Portfolio Investors
+CL100975,Individual,Male,India,Delhi NCR,1983-08-13,Investment,No,Online,3.4,16551000,1,43,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100976,Individual,Male,UAE,Abu Dhabi,1969-02-02,Investment,No,Online,4.2,31474000,3,57,1,2,C1: Affluent Global & Portfolio Investors
+CL100977,Individual,Male,India,Mumbai,1969-12-08,Investment,No,Online,3.8,34405000,4,57,1,2,C1: Affluent Global & Portfolio Investors
+CL100978,Individual,Male,India,Mumbai,1981-08-27,Investment,No,Agent,4.1,30922000,4,45,1,2,C1: Affluent Global & Portfolio Investors
+CL100979,Individual,Male,UAE,Sharjah,1987-04-09,Personal Use,Yes,Agent,3.7,4867000,1,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100980,Individual,Female,India,Bengaluru,2001-10-02,Personal Use,Yes,Direct,3.2,5756000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100981,Individual,Male,Singapore,West,1982-01-09,Business Use,No,Online,4.1,80425000,9,44,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100982,Individual,Male,USA,Florida,1987-04-06,Personal Use,Yes,Agent,4.7,6433000,1,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100983,Individual,Female,UK,Birmingham,1994-01-22,Investment,No,Referral,5.0,29931000,1,32,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL100984,Individual,Male,India,Pune,1975-01-21,Business Use,No,Referral,4.6,73608000,5,51,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100985,Individual,Male,India,Delhi NCR,1976-11-23,Investment,No,Referral,5.0,21437000,4,50,1,2,C1: Affluent Global & Portfolio Investors
+CL100986,Individual,Male,USA,New York,1961-07-18,Investment,No,Online,4.1,18886000,4,65,1,1,C1: Affluent Global & Portfolio Investors
+CL100987,Individual,Male,India,Delhi NCR,1956-04-05,Investment,No,Referral,3.1,17408000,4,70,1,2,C1: Affluent Global & Portfolio Investors
+CL100988,Individual,Male,India,Delhi NCR,1989-12-29,Personal Use,No,Agent,3.8,4618000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100989,Corporate,Prefer not to say,India,Bengaluru,1977-07-21,Investment,Yes,Social Media,4.6,42241000,6,49,1,2,C1: Affluent Global & Portfolio Investors
+CL100990,Individual,Prefer not to say,USA,California,2002-04-26,Personal Use,Yes,Online,5.0,7237000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100991,Corporate,Prefer not to say,UAE,Dubai,1991-03-19,Personal Use,Yes,Referral,3.9,8327000,1,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL100992,Individual,Male,UK,Manchester,1986-08-04,Business Use,No,Referral,2.6,61087000,10,40,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL100993,Individual,Male,USA,Florida,1984-02-21,Investment,No,Referral,4.9,27180000,1,42,1,2,C1: Affluent Global & Portfolio Investors
+CL100994,Corporate,Male,India,Hyderabad,1978-05-02,Business Use,No,Online,4.3,95380000,8,48,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL100995,Corporate,Male,USA,Texas,1980-12-16,Investment,No,Referral,5.0,29287000,6,46,1,2,C1: Affluent Global & Portfolio Investors
+CL100996,Individual,Male,India,Delhi NCR,1973-09-22,Investment,No,Referral,4.4,46220000,6,53,1,2,C1: Affluent Global & Portfolio Investors
+CL100997,Individual,Male,UAE,Abu Dhabi,1995-01-25,Personal Use,Yes,Online,3.4,7242000,2,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100998,Individual,Male,India,Pune,1995-01-02,Personal Use,Yes,Agent,3.1,5825000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL100999,Individual,Male,Singapore,Central,1967-11-24,Business Use,Yes,Online,4.7,87800000,3,59,1,1,C1: Affluent Global & Portfolio Investors
+CL101000,Individual,Male,India,Delhi NCR,2002-08-30,Personal Use,No,Online,4.4,6444000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101001,Corporate,Female,India,Pune,1999-01-05,Personal Use,Yes,Social Media,3.4,10148000,1,27,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101002,Individual,Male,India,Pune,1991-04-20,Investment,No,Agent,4.0,15530000,4,35,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL101003,Individual,Female,India,Hyderabad,1996-11-09,Investment,No,Referral,3.1,18918000,4,30,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101004,Individual,Male,India,Pune,2002-08-12,Personal Use,No,Social Media,4.1,6698000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101005,Individual,Prefer not to say,UAE,Abu Dhabi,1955-01-25,Investment,No,Referral,4.9,36348000,3,71,1,2,C1: Affluent Global & Portfolio Investors
+CL101006,Individual,Male,India,Bengaluru,1974-10-15,Investment,Yes,Referral,3.4,14276000,1,52,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101007,Individual,Male,USA,Texas,1958-06-06,Investment,Yes,Referral,3.7,24621000,5,68,1,2,C1: Affluent Global & Portfolio Investors
+CL101008,Individual,Male,India,Delhi NCR,1960-07-16,Investment,No,Agent,5.0,31764000,4,66,1,2,C1: Affluent Global & Portfolio Investors
+CL101009,Individual,Male,UK,Manchester,1996-03-30,Investment,No,Online,3.8,27116000,4,30,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL101010,Individual,Female,India,Mumbai,1979-04-03,Investment,No,Social Media,4.3,27449000,1,47,1,2,C1: Affluent Global & Portfolio Investors
+CL101011,Individual,Male,UAE,Dubai,1998-03-04,Personal Use,Yes,Direct,3.0,8208000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101012,Corporate,Male,UAE,Sharjah,1976-11-19,Investment,Yes,Agent,4.5,17007000,2,50,1,2,C1: Affluent Global & Portfolio Investors
+CL101013,Individual,Female,India,Bengaluru,1960-07-20,Investment,No,Direct,3.8,44892000,2,66,1,2,C1: Affluent Global & Portfolio Investors
+CL101014,Individual,Male,Singapore,Central,1958-04-25,Personal Use,Yes,Direct,3.8,52899000,5,68,1,1,C1: Affluent Global & Portfolio Investors
+CL101015,Individual,Male,India,Mumbai,2000-08-02,Personal Use,Yes,Agent,4.3,12260000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101016,Individual,Male,India,Mumbai,1993-05-03,Personal Use,Yes,Referral,3.7,6873000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101017,Individual,Male,UK,Manchester,1993-05-14,Personal Use,Yes,Referral,4.9,4537000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101018,Individual,Male,USA,Florida,1981-08-19,Investment,No,Online,5.0,24883000,3,45,1,2,C1: Affluent Global & Portfolio Investors
+CL101019,Individual,Male,India,Hyderabad,1990-11-27,Personal Use,No,Online,4.8,9293000,1,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101020,Corporate,Female,India,Bengaluru,1969-01-12,Investment,No,Agent,3.6,44673000,3,57,1,2,C1: Affluent Global & Portfolio Investors
+CL101021,Individual,Male,USA,California,1997-03-06,Investment,No,Social Media,3.5,42778000,2,29,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101022,Individual,Male,UK,Birmingham,1987-02-10,Personal Use,Yes,Agent,4.1,8492000,1,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101023,Individual,Male,Singapore,East,1982-09-15,Investment,No,Social Media,4.1,26679000,3,44,1,2,C1: Affluent Global & Portfolio Investors
+CL101024,Corporate,Female,UAE,Abu Dhabi,1964-09-08,Investment,No,Referral,4.6,22047000,2,62,1,2,C1: Affluent Global & Portfolio Investors
+CL101025,Corporate,Female,UAE,Abu Dhabi,1994-09-06,Personal Use,Yes,Referral,3.0,8432000,1,32,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101026,Individual,Other,India,Pune,1994-12-22,Personal Use,Yes,Online,2.9,5210000,1,32,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101027,Individual,Prefer not to say,Singapore,East,1986-11-02,Investment,Yes,Agent,4.1,21635000,3,40,1,2,C1: Affluent Global & Portfolio Investors
+CL101028,Individual,Female,India,Pune,1987-09-12,Investment,Yes,Online,4.0,8314000,5,39,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL101029,Individual,Male,UK,Birmingham,1988-01-07,Investment,No,Online,3.7,24367000,3,38,1,2,C1: Affluent Global & Portfolio Investors
+CL101030,Individual,Female,India,Bengaluru,1986-10-20,Investment,No,Online,4.1,21619000,3,40,1,2,C1: Affluent Global & Portfolio Investors
+CL101031,Individual,Male,UAE,Dubai,1987-07-01,Investment,Yes,Online,3.7,43201000,3,39,1,2,C1: Affluent Global & Portfolio Investors
+CL101032,Individual,Male,UK,Birmingham,1973-06-16,Investment,No,Online,4.2,52282000,6,53,1,2,C1: Affluent Global & Portfolio Investors
+CL101033,Individual,Female,UAE,Dubai,1992-08-23,Personal Use,No,Referral,5.0,6013000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101034,Corporate,Male,USA,Texas,1990-02-01,Personal Use,Yes,Agent,4.1,8510000,1,36,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101035,Individual,Male,India,Bengaluru,1980-11-28,Business Use,No,Online,4.5,33200000,8,46,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL101036,Individual,Male,UAE,Abu Dhabi,1971-02-19,Business Use,Yes,Social Media,3.6,48578000,8,55,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL101037,Individual,Male,India,Bengaluru,1965-04-05,Investment,No,Agent,4.6,26453000,4,61,1,2,C1: Affluent Global & Portfolio Investors
+CL101038,Individual,Female,India,Delhi NCR,1964-09-12,Investment,No,Direct,4.3,20222000,3,62,1,2,C1: Affluent Global & Portfolio Investors
+CL101039,Individual,Male,India,Pune,1999-03-28,Personal Use,Yes,Referral,3.2,7109000,1,27,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101040,Individual,Female,India,Pune,1998-07-30,Personal Use,Yes,Online,3.5,10307000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101041,Individual,Male,India,Pune,1979-01-13,Investment,No,Direct,4.3,40933000,2,47,1,2,C1: Affluent Global & Portfolio Investors
+CL101042,Individual,Female,UK,London,1995-12-20,Personal Use,No,Social Media,4.4,6403000,1,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101043,Individual,Male,UAE,Abu Dhabi,1991-12-23,Personal Use,No,Referral,4.2,8053000,1,35,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101044,Individual,Female,UK,London,2002-06-18,Personal Use,No,Agent,5.0,7753000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101045,Individual,Male,India,Pune,2000-01-28,Personal Use,Yes,Agent,4.3,5460000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101046,Individual,Male,India,Delhi NCR,1961-12-09,Business Use,No,Agent,3.8,51904000,9,65,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL101047,Individual,Male,India,Bengaluru,1989-03-24,Personal Use,Yes,Social Media,3.6,6456000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101048,Individual,Male,UK,Manchester,1980-01-25,Investment,No,Agent,3.5,25044000,5,46,1,2,C1: Affluent Global & Portfolio Investors
+CL101049,Individual,Male,USA,California,1963-07-09,Investment,Yes,Online,3.1,23672000,4,63,1,2,C1: Affluent Global & Portfolio Investors
+CL101050,Individual,Prefer not to say,India,Mumbai,1977-02-19,Investment,No,Online,4.6,37783000,4,49,1,2,C1: Affluent Global & Portfolio Investors
+CL101051,Individual,Other,UK,Manchester,1995-04-01,Personal Use,Yes,Online,2.0,9246000,2,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101052,Individual,Female,India,Hyderabad,1981-10-15,Investment,No,Online,3.1,24548000,1,45,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101053,Individual,Male,India,Mumbai,1994-02-25,Personal Use,No,Agent,4.9,7910000,1,32,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101054,Individual,Male,India,Bengaluru,1978-04-22,Investment,Yes,Direct,5.0,37083000,3,48,1,2,C1: Affluent Global & Portfolio Investors
+CL101055,Individual,Female,India,Pune,1967-12-29,Business Use,No,Online,4.1,73261000,14,59,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101056,Corporate,Female,UK,Birmingham,1987-06-09,Investment,No,Agent,4.3,46268000,3,39,1,2,C1: Affluent Global & Portfolio Investors
+CL101057,Individual,Prefer not to say,USA,Florida,1992-05-08,Personal Use,Yes,Online,2.4,5869000,1,34,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101058,Individual,Other,India,Hyderabad,1988-03-15,Personal Use,Yes,Referral,4.0,7818000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101059,Individual,Prefer not to say,UAE,Sharjah,1999-03-27,Personal Use,Yes,Referral,4.7,7144000,1,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101060,Individual,Female,UK,Manchester,1991-07-13,Investment,No,Agent,2.7,27883000,5,35,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101061,Individual,Prefer not to say,Singapore,East,1960-09-14,Business Use,Yes,Direct,3.4,90713000,9,66,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL101062,Individual,Female,UAE,Sharjah,1987-10-25,Personal Use,Yes,Direct,3.5,7819000,1,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101063,Individual,Male,India,Pune,1961-11-30,Investment,No,Social Media,4.8,10094000,4,65,1,2,C1: Affluent Global & Portfolio Investors
+CL101064,Individual,Female,UAE,Dubai,1957-05-13,Investment,No,Social Media,5.0,49570000,2,69,1,2,C1: Affluent Global & Portfolio Investors
+CL101065,Individual,Male,India,Bengaluru,1989-01-16,Personal Use,Yes,Agent,2.8,7155000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101066,Individual,Female,Singapore,West,1983-12-04,Investment,No,Referral,2.7,30042000,5,43,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101067,Individual,Male,India,Mumbai,1993-04-20,Personal Use,Yes,Agent,2.9,3631000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101068,Individual,Female,UK,London,1986-06-03,Investment,Yes,Social Media,5.0,55119000,3,40,1,2,C1: Affluent Global & Portfolio Investors
+CL101069,Corporate,Female,India,Mumbai,1972-10-31,Investment,Yes,Online,4.5,71832000,2,54,1,2,C1: Affluent Global & Portfolio Investors
+CL101070,Individual,Male,India,Pune,1998-10-17,Personal Use,Yes,Online,3.1,2266000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101071,Individual,Male,USA,New York,1972-09-20,Investment,No,Online,4.3,51539000,6,54,1,1,C1: Affluent Global & Portfolio Investors
+CL101072,Individual,Female,UAE,Sharjah,1982-04-27,Investment,No,Referral,4.3,41937000,5,44,1,2,C1: Affluent Global & Portfolio Investors
+CL101073,Individual,Male,India,Delhi NCR,1973-09-14,Investment,No,Referral,4.1,48073000,3,53,1,2,C1: Affluent Global & Portfolio Investors
+CL101074,Individual,Male,USA,Florida,1984-03-05,Investment,No,Online,4.7,42506000,6,42,1,2,C1: Affluent Global & Portfolio Investors
+CL101075,Individual,Male,USA,Texas,1993-08-20,Personal Use,No,Agent,3.1,5910000,2,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101076,Individual,Male,India,Bengaluru,1987-11-24,Business Use,No,Agent,4.2,87716000,10,39,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101077,Individual,Female,UAE,Abu Dhabi,1992-11-28,Personal Use,Yes,Social Media,4.2,3260000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101078,Individual,Female,UAE,Abu Dhabi,1970-08-09,Business Use,No,Online,4.1,44559000,13,56,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101079,Individual,Male,UAE,Abu Dhabi,1996-08-06,Investment,Yes,Online,4.3,27772000,3,30,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL101080,Individual,Male,India,Delhi NCR,1990-04-10,Business Use,No,Referral,4.5,75516000,13,36,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101081,Individual,Male,India,Delhi NCR,1979-07-12,Personal Use,No,Referral,5.0,39702000,4,47,1,2,C1: Affluent Global & Portfolio Investors
+CL101082,Individual,Male,USA,New York,1991-11-04,Personal Use,No,Social Media,3.7,7947000,1,35,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101083,Individual,Female,USA,Florida,1982-10-17,Personal Use,No,Referral,5.0,50172000,4,44,1,2,C1: Affluent Global & Portfolio Investors
+CL101084,Individual,Male,USA,New York,1993-06-09,Personal Use,No,Direct,5.0,4935000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101085,Individual,Male,Singapore,East,1972-09-02,Investment,No,Agent,5.0,16601000,4,54,1,2,C1: Affluent Global & Portfolio Investors
+CL101086,Individual,Female,UK,London,1962-05-02,Investment,No,Agent,3.0,19743000,3,64,1,2,C1: Affluent Global & Portfolio Investors
+CL101087,Individual,Male,UK,Manchester,1965-01-30,Investment,No,Direct,3.9,22264000,5,61,1,2,C1: Affluent Global & Portfolio Investors
+CL101088,Corporate,Female,UK,Birmingham,1989-08-25,Personal Use,No,Online,3.3,6068000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101089,Individual,Male,UAE,Abu Dhabi,1988-06-14,Personal Use,Yes,Social Media,4.3,4942000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101090,Individual,Prefer not to say,India,Delhi NCR,2002-03-05,Personal Use,No,Online,4.1,4849000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101091,Individual,Male,India,Hyderabad,1995-10-18,Personal Use,No,Agent,3.5,5262000,1,31,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101092,Corporate,Female,UAE,Abu Dhabi,1998-06-30,Personal Use,Yes,Online,4.4,10498000,1,28,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101093,Individual,Female,India,Bengaluru,1958-09-13,Personal Use,Yes,Referral,4.8,47869000,6,68,1,1,C1: Affluent Global & Portfolio Investors
+CL101094,Individual,Male,India,Delhi NCR,1983-05-19,Business Use,Yes,Social Media,3.7,59219000,5,43,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL101095,Corporate,Male,UAE,Sharjah,1983-04-06,Business Use,No,Online,4.1,83845000,11,43,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101096,Individual,Male,India,Mumbai,1992-11-11,Personal Use,Yes,Online,4.0,6497000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101097,Corporate,Female,India,Hyderabad,1986-10-26,Investment,No,Agent,4.7,25021000,5,40,1,2,C1: Affluent Global & Portfolio Investors
+CL101098,Individual,Female,USA,Texas,1985-12-24,Investment,No,Online,4.0,12451000,2,41,1,2,C1: Affluent Global & Portfolio Investors
+CL101099,Individual,Female,USA,New York,1990-12-29,Personal Use,No,Agent,3.7,5976000,1,36,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101100,Individual,Female,India,Mumbai,1963-12-15,Investment,No,Direct,3.8,29162000,2,63,1,2,C1: Affluent Global & Portfolio Investors
+CL101101,Individual,Male,India,Hyderabad,1988-04-19,Personal Use,Yes,Online,3.8,5695000,1,38,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101102,Corporate,Female,India,Delhi NCR,1975-02-07,Business Use,No,Agent,3.1,106043000,3,51,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL101103,Individual,Male,USA,Texas,1993-08-05,Business Use,Yes,Agent,4.3,52858000,7,33,0,2,C3: High-Volume Business & Multi-Unit Buyers
+CL101104,Corporate,Male,USA,New York,1995-02-14,Personal Use,Yes,Online,4.0,7015000,1,31,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101105,Individual,Female,India,Hyderabad,1989-04-10,Investment,Yes,Online,3.2,17749000,1,37,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101106,Individual,Male,UK,Birmingham,1960-03-13,Business Use,No,Referral,3.6,68143000,5,66,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL101107,Corporate,Female,India,Pune,1959-04-07,Investment,No,Referral,4.9,22972000,4,67,1,2,C1: Affluent Global & Portfolio Investors
+CL101108,Individual,Female,India,Pune,2002-10-22,Personal Use,Yes,Social Media,5.0,6689000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101109,Corporate,Female,Singapore,Central,1958-06-25,Investment,No,Agent,4.3,26865000,2,68,1,2,C1: Affluent Global & Portfolio Investors
+CL101110,Individual,Male,India,Bengaluru,1996-06-24,Personal Use,Yes,Referral,3.0,6584000,1,30,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101111,Individual,Male,India,Pune,1999-05-13,Personal Use,No,Direct,3.9,8477000,1,27,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101112,Individual,Female,India,Mumbai,1992-03-17,Personal Use,Yes,Social Media,4.3,4245000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101113,Individual,Female,UAE,Dubai,1990-11-22,Personal Use,Yes,Direct,3.6,10412000,2,36,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101114,Individual,Male,USA,New York,1965-04-30,Business Use,Yes,Online,3.9,59142000,9,61,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101115,Individual,Female,Singapore,Central,2001-03-03,Personal Use,Yes,Direct,3.1,7241000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101116,Individual,Male,India,Pune,2001-11-20,Personal Use,Yes,Social Media,4.2,5145000,1,25,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101117,Individual,Female,India,Hyderabad,1985-08-03,Investment,No,Social Media,4.3,21395000,3,41,1,2,C1: Affluent Global & Portfolio Investors
+CL101118,Corporate,Female,USA,Florida,1960-02-10,Investment,No,Referral,4.3,34261000,6,66,1,2,C1: Affluent Global & Portfolio Investors
+CL101119,Individual,Male,India,Delhi NCR,1997-12-24,Personal Use,Yes,Direct,4.2,5791000,1,29,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101120,Individual,Male,USA,Florida,1998-11-05,Personal Use,Yes,Agent,3.6,5464000,1,28,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101121,Corporate,Other,UK,Birmingham,1961-03-14,Investment,Yes,Social Media,4.8,14443000,4,65,1,2,C1: Affluent Global & Portfolio Investors
+CL101122,Individual,Female,India,Bengaluru,1974-11-01,Business Use,Yes,Referral,4.9,94383000,8,52,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101123,Individual,Female,USA,Florida,1973-04-20,Investment,Yes,Referral,4.7,46559000,2,53,1,2,C1: Affluent Global & Portfolio Investors
+CL101124,Individual,Male,India,Hyderabad,1957-02-07,Investment,Yes,Social Media,4.0,32078000,4,69,1,2,C1: Affluent Global & Portfolio Investors
+CL101125,Individual,Prefer not to say,India,Bengaluru,1965-07-04,Investment,No,Online,4.5,29378000,5,61,1,2,C1: Affluent Global & Portfolio Investors
+CL101126,Individual,Male,UAE,Dubai,1987-07-10,Investment,No,Agent,4.0,21648000,4,39,1,2,C1: Affluent Global & Portfolio Investors
+CL101127,Individual,Male,UAE,Dubai,2000-07-29,Personal Use,Yes,Agent,4.0,5670000,1,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101128,Individual,Male,UK,London,1958-08-19,Investment,No,Social Media,4.6,39342000,3,68,1,2,C1: Affluent Global & Portfolio Investors
+CL101129,Individual,Female,UAE,Dubai,1987-08-17,Personal Use,Yes,Referral,3.3,7692000,2,39,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101130,Individual,Female,Singapore,Central,1991-06-14,Personal Use,No,Social Media,2.4,7935000,1,35,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101131,Individual,Female,Singapore,East,1993-02-09,Business Use,No,Social Media,3.7,77621000,9,33,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL101132,Individual,Female,UAE,Dubai,1980-01-09,Business Use,Yes,Referral,4.2,83430000,5,46,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL101133,Individual,Male,India,Hyderabad,1962-02-20,Investment,No,Online,4.2,19637000,3,64,1,2,C1: Affluent Global & Portfolio Investors
+CL101134,Corporate,Male,UK,Birmingham,1966-11-20,Investment,No,Referral,4.2,34556000,1,60,1,2,C1: Affluent Global & Portfolio Investors
+CL101135,Individual,Male,Singapore,Central,2000-09-12,Personal Use,Yes,Direct,3.8,6111000,2,26,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101136,Individual,Male,India,Hyderabad,1988-03-31,Business Use,No,Referral,4.1,41409000,4,38,1,2,C1: Affluent Global & Portfolio Investors
+CL101137,Individual,Male,India,Hyderabad,1978-06-17,Business Use,No,Direct,4.2,44291000,15,48,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101138,Individual,Female,India,Hyderabad,1976-09-01,Business Use,No,Direct,4.5,35803000,3,50,1,2,C1: Affluent Global & Portfolio Investors
+CL101139,Individual,Female,India,Mumbai,1964-09-10,Investment,No,Agent,4.3,53556000,4,62,1,2,C1: Affluent Global & Portfolio Investors
+CL101140,Individual,Female,UK,Birmingham,1990-11-21,Personal Use,Yes,Referral,3.7,4460000,2,36,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101141,Corporate,Male,India,Delhi NCR,1998-09-03,Personal Use,No,Agent,4.3,5221000,1,28,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101142,Individual,Male,UK,Manchester,1995-08-01,Investment,No,Agent,3.8,22922000,2,31,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL101143,Individual,Male,USA,New York,1987-08-04,Investment,Yes,Online,4.0,59960000,5,39,1,1,C1: Affluent Global & Portfolio Investors
+CL101144,Individual,Male,USA,Florida,2002-06-16,Personal Use,No,Online,4.7,6170000,1,24,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101145,Individual,Male,India,Hyderabad,1991-09-25,Personal Use,Yes,Online,3.2,4401000,2,35,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101146,Individual,Male,India,Delhi NCR,1994-10-19,Investment,No,Referral,4.4,17677000,3,32,3,2,C2b: First-Time Buyers (High Satisfaction)
+CL101147,Individual,Male,UK,Manchester,1989-02-12,Business Use,No,Online,4.0,95244000,5,37,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL101148,Individual,Female,USA,Florida,1972-08-07,Business Use,No,Agent,4.1,72797000,14,54,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101149,Corporate,Male,UAE,Dubai,1965-10-01,Business Use,No,Agent,4.4,46170000,3,61,1,1,C1: Affluent Global & Portfolio Investors
+CL101150,Corporate,Male,USA,California,1968-05-14,Investment,Yes,Agent,4.9,8894000,3,58,1,2,C1: Affluent Global & Portfolio Investors
+CL101151,Individual,Male,India,Mumbai,1980-06-18,Personal Use,No,Social Media,3.8,49889000,4,46,1,1,C1: Affluent Global & Portfolio Investors
+CL101152,Individual,Male,USA,California,1995-06-06,Business Use,Yes,Agent,3.4,67147000,3,31,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101153,Individual,Male,India,Pune,1983-10-14,Business Use,No,Online,4.0,71818000,3,43,1,1,C1: Affluent Global & Portfolio Investors
+CL101154,Corporate,Male,India,Delhi NCR,1991-04-14,Business Use,Yes,Direct,5.0,57495000,5,35,1,2,C1: Affluent Global & Portfolio Investors
+CL101155,Individual,Female,UAE,Abu Dhabi,1958-10-24,Investment,No,Social Media,4.6,32769000,6,68,1,2,C1: Affluent Global & Portfolio Investors
+CL101156,Individual,Male,India,Mumbai,1964-03-02,Investment,No,Referral,4.0,20272000,2,62,1,2,C1: Affluent Global & Portfolio Investors
+CL101157,Individual,Female,India,Delhi NCR,1989-07-31,Personal Use,No,Social Media,3.6,9656000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101158,Individual,Male,India,Bengaluru,2000-08-05,Personal Use,Yes,Online,3.1,8424000,2,26,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101159,Individual,Male,India,Hyderabad,2002-08-14,Personal Use,No,Social Media,2.8,8114000,1,24,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101160,Corporate,Male,UK,Manchester,1958-08-01,Investment,No,Online,4.1,43212000,3,68,1,2,C1: Affluent Global & Portfolio Investors
+CL101161,Individual,Male,India,Hyderabad,1979-05-05,Business Use,Yes,Agent,3.9,63167000,12,47,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101162,Corporate,Male,UAE,Dubai,1965-07-04,Investment,No,Online,3.7,5026000,4,61,1,2,C1: Affluent Global & Portfolio Investors
+CL101163,Individual,Female,USA,Texas,1989-11-16,Investment,Yes,Social Media,3.7,26289000,2,37,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101164,Individual,Male,India,Delhi NCR,1969-06-09,Investment,No,Online,4.1,46707000,4,57,1,2,C1: Affluent Global & Portfolio Investors
+CL101165,Individual,Female,India,Delhi NCR,1969-09-26,Investment,No,Online,4.5,31853000,6,57,1,2,C1: Affluent Global & Portfolio Investors
+CL101166,Individual,Male,USA,Texas,1964-11-23,Investment,No,Online,4.7,40871000,2,62,1,2,C1: Affluent Global & Portfolio Investors
+CL101167,Individual,Male,USA,Texas,1993-03-01,Personal Use,Yes,Referral,3.6,5547000,1,33,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101168,Individual,Male,UAE,Dubai,1982-09-10,Personal Use,No,Online,4.2,53143000,5,44,1,2,C1: Affluent Global & Portfolio Investors
+CL101169,Individual,Male,USA,Florida,1977-05-29,Investment,No,Agent,4.2,57582000,5,49,1,2,C1: Affluent Global & Portfolio Investors
+CL101170,Individual,Male,India,Bengaluru,1992-10-31,Personal Use,No,Agent,4.6,8500000,1,34,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101171,Individual,Prefer not to say,India,Delhi NCR,1961-08-31,Investment,Yes,Social Media,4.8,16158000,5,65,1,2,C1: Affluent Global & Portfolio Investors
+CL101172,Individual,Female,UK,Birmingham,1980-08-14,Investment,No,Online,4.6,51002000,5,46,1,2,C1: Affluent Global & Portfolio Investors
+CL101173,Individual,Prefer not to say,India,Delhi NCR,1978-11-15,Investment,No,Direct,3.9,36555000,2,48,1,2,C1: Affluent Global & Portfolio Investors
+CL101174,Corporate,Male,UK,London,2002-01-12,Personal Use,Yes,Agent,3.5,6932000,1,24,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101175,Individual,Female,UAE,Sharjah,1972-09-10,Business Use,Yes,Online,4.2,47598000,9,54,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101176,Individual,Male,UK,Birmingham,1984-06-03,Business Use,No,Online,3.8,78325000,8,42,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL101177,Individual,Female,India,Delhi NCR,1994-06-10,Personal Use,No,Online,2.6,8390000,1,32,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101178,Individual,Prefer not to say,India,Pune,1990-07-30,Business Use,No,Agent,3.5,91479000,12,36,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101179,Individual,Female,India,Pune,1955-06-03,Investment,No,Online,3.9,14522000,1,71,1,2,C1: Affluent Global & Portfolio Investors
+CL101180,Corporate,Female,India,Hyderabad,1972-06-09,Investment,No,Direct,4.4,47222000,4,54,1,2,C1: Affluent Global & Portfolio Investors
+CL101181,Individual,Female,UK,Birmingham,1982-12-04,Investment,No,Agent,4.8,48722000,2,44,1,2,C1: Affluent Global & Portfolio Investors
+CL101182,Individual,Male,India,Delhi NCR,1977-05-02,Business Use,No,Online,4.0,129412000,3,49,0,1,C3: High-Volume Business & Multi-Unit Buyers
+CL101183,Individual,Female,India,Bengaluru,1964-11-21,Investment,No,Agent,4.3,66667000,5,62,1,1,C1: Affluent Global & Portfolio Investors
+CL101184,Individual,Male,India,Bengaluru,1976-07-27,Investment,Yes,Online,4.4,26416000,3,50,1,2,C1: Affluent Global & Portfolio Investors
+CL101185,Individual,Female,India,Delhi NCR,1961-08-21,Investment,No,Online,4.4,15253000,3,65,1,2,C1: Affluent Global & Portfolio Investors
+CL101186,Individual,Female,USA,New York,1976-07-22,Business Use,No,Agent,4.1,63749000,4,50,1,1,C1: Affluent Global & Portfolio Investors
+CL101187,Individual,Male,India,Mumbai,1963-12-07,Investment,No,Online,4.3,43285000,3,63,1,2,C1: Affluent Global & Portfolio Investors
+CL101188,Individual,Male,Singapore,West,1980-04-20,Investment,Yes,Online,3.5,26437000,3,46,1,2,C1: Affluent Global & Portfolio Investors
+CL101189,Individual,Male,India,Delhi NCR,1987-08-03,Personal Use,Yes,Direct,4.1,9855000,1,39,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101190,Individual,Male,UAE,Sharjah,1957-12-10,Investment,Yes,Referral,4.2,32674000,5,69,1,2,C1: Affluent Global & Portfolio Investors
+CL101191,Individual,Male,India,Hyderabad,2001-12-31,Personal Use,No,Direct,3.4,5980000,1,25,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101192,Corporate,Female,India,Bengaluru,1996-06-18,Personal Use,No,Online,4.8,6400000,1,30,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101193,Individual,Male,USA,Florida,1963-05-04,Personal Use,No,Social Media,4.4,53269000,3,63,1,2,C1: Affluent Global & Portfolio Investors
+CL101194,Individual,Female,Singapore,East,1993-06-16,Personal Use,No,Agent,4.6,6998000,1,33,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101195,Individual,Male,USA,New York,1988-04-14,Personal Use,Yes,Online,3.4,6855000,1,38,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101196,Individual,Prefer not to say,India,Bengaluru,1989-03-31,Personal Use,Yes,Social Media,3.8,6536000,1,37,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101197,Individual,Male,India,Bengaluru,2001-02-17,Personal Use,Yes,Online,4.1,4412000,1,25,3,0,C2b: First-Time Buyers (High Satisfaction)
+CL101198,Individual,Prefer not to say,UAE,Abu Dhabi,1989-01-08,Personal Use,Yes,Agent,3.4,6977000,1,37,2,0,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
+CL101199,Corporate,Male,India,Bengaluru,1967-02-14,Business Use,No,Social Media,4.1,74758000,12,59,0,3,C3: High-Volume Business & Multi-Unit Buyers
+CL101200,Individual,Male,UK,Manchester,1986-03-18,Investment,No,Referral,3.3,8847000,5,40,2,2,C2a: First-Time Buyers (At-Risk / Low Satisfaction)
